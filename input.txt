@@ -1,0 +1,795 @@
+Position	Company	Location	Type	Date_Online	Date_Change
+IT Support & Business Consultant	KAPPA DATA	DE PINTE	Vaste Job	27 juli 2020	15 oktober 2020
+BI & Data Architect	Attentia	GENT	Vaste Job	7 augustus 2020	12 januari 2021
+Cloud architect data platform & data analytics	CEGEKA	ANTWERPEN	Vaste Job	15 mei 2020	3 juni 2020
+Microsoft Azure DevOps Data Engineer	CEGEKA	HASSELT	Vaste Job	20 november 2020	20 november 2020
+Data Architect	COLRUYT GROUP	HALLE	Vaste Job	14 april 2020	14 april 2020
+Data Warehouse PostgreSQL Administrator	Smals	BRUSSEL	Vaste Job	27 maart 2020	28 januari 2021
+Chapter lead Data Engineers	VIND! ICT	WAREGEM	Vaste Job	9 november 2020	9 november 2020
+Data engineer / ETL developer	VIND! ICT	WAREGEM	Vaste Job	10 december 2020	10 december 2020
+Senior Big Data Integration Engineer	COLRUYT GROUP	HALLE	Vaste Job	10 augustus 2020	13 augustus 2020
+Data/BI Consultant	Tri ICT Belux	Regio Antwerpen	Vaste Job	9 augustus 2019	7 januari 2021
+BI data analist	VIND! ICT	ZEEBRUGGE	Vaste Job	11 januari 2021	11 januari 2021
+Data Scientist / AI Engineer	TRENDSKOUT	GENT	Vaste Job	2 december 2019	20 november 2020
+Data analyst	VIND! ICT	WAREGEM	Vaste Job	29 december 2020	29 december 2020
+Senior Data Management Professional with DevOps mindset	Van Genechten Packaging ( Imas NV )	TURNHOUT	Vaste Job	12 januari 2021	
+Data Scientist Engineer - Artificial Intelligence	PLURALIT EUROPE	MECHELEN	Vaste Job	16 september 2020	28 januari 2021
+Master data coördinator	SELECT HUMAN RESOURCES	KORTRIJK	Vaste Job	8 januari 2021	25 januari 2021
+Masterdata	DPD (Belgium) NV/SA	MECHELEN	Vaste Job	19 januari 2021	19 januari 2021
+Logical Data Modeler	COLRUYT GROUP	HALLE	Vaste Job	10 augustus 2020	13 augustus 2020
+Power BI Data Engineer	TLCC	RUDDERVOORDE	Vaste Job	20 januari 2021	20 januari 2021
+KU Leuven zoekt een data science engineer voor het HPC team	KATHOLIEKE UNIVERSITEIT TE LEUVEN	LEUVEN	Vaste Job	27 januari 2021	27 januari 2021
+System Engineer Application Infrastructure Data	COLRUYT GROUP	HALLE	Vaste Job	15 oktober 2020	15 oktober 2020
+Data Architect	Smals	BRUSSEL	Vaste Job	30 september 2020	28 januari 2021
+Data steward	COLRUYT GROUP	HALLE	Vaste Job	13 november 2019	16 november 2020
+Data Lake Analyst	COLRUYT GROUP	HALLE	Vaste Job	3 oktober 2019	3 oktober 2019
+Datacenter manager - IT strategic leadership	VIND! ICT	WAREGEM	Vaste Job	3 januari 2021	3 januari 2021
+Data Scientist Architect - Artificial Intelligence	PLURALIT EUROPE	MECHELEN	Vaste Job	30 september 2020	28 januari 2021
+datawarehouse developer	GZA Ziekenhuizen	Regio Antwerpen	Vaste Job	16 december 2020	22 januari 2021
+Data/webdesign programmeur	DSM INTERNATIONAL	DADIZELE	Vaste Job	16 januari 2021	16 januari 2021
+Business/Functioneel/data analist	PRIVATUM	LUMMEN	Vaste Job	25 januari 2021	25 januari 2021
+Project Master Data Management	Let's Work Roeselare	ARDOOIE	Interim met optie "vast werk"	15 december 2020	15 december 2020
+Master Data beheerder	FORUM JOBS	KUURNE	Interim met optie "vast werk"	29 december 2020	29 december 2020
+DATABEHEERDER TIJDELIJK	AGO OFFICE (Bedienden & Kaderleden)	WAREGEM	Interim met optie "vast werk"	15 januari 2021	15 januari 2021
+Bachelor ICT data engineer	FORUM JOBS	GISTEL	Interim met optie "vast werk"	5 januari 2021	5 januari 2021
+Medewerker Master Data	Trixxo jobs Aarschot	MELLE	Interim Job (uitsluitend voor uitzendkantoren)	5 december 2020	5 december 2020
+Data expert	TALENTUS	WIELSBEKE	Interim met optie "vast werk"	20 januari 2021	20 januari 2021
+Masterdata & Content Administrator	MANPOWER GEEL	HERENTALS	Interim met optie "vast werk"	11 december 2020	11 december 2020
+Datatypist	ACCENT SELECT SERVICES	GENK	Interim met optie "vast werk"	21 januari 2021	27 januari 2021
+Master Data Administrator	Robert Half	KORTRIJK	Interim met optie "vast werk"	5 januari 2021	5 januari 2021
+Dataverwerker	ASAP OFFICE GENT	OOSTAKKER	Interim met optie "vast werk"	13 januari 2021	13 januari 2021
+Vaccinatieproject COVID 19 - Data Cruncher - Expert Excel	Mutualités Libres Onafhankelijk Ziekenfonds	ANDERLECHT	Tijdelijke job (niet via uitzendkantoren)	15 januari 2021	15 januari 2021
+Cybersecurity Specialist	Smals	BRUSSEL	Vaste Job	26 november 2020	26 november 2020
+Database Administrator	Smals	BRUSSEL	Vaste Job	1 juli 2020	28 januari 2021
+Configuration Manager/Administrator	COLRUYT GROUP	HALLE	Vaste Job	30 oktober 2020	30 oktober 2020
+Database Administrator	DIGIPOLIS	ANTWERPEN	Vaste Job	19 januari 2021	19 januari 2021
+CMDB Development Specialist	COLRUYT GROUP	HALLE	Vaste Job	15 mei 2020	12 oktober 2020
+Database Administrator MySQL &#38; MS SQL Server	Smals	BRUSSEL	Vaste Job	1 augustus 2019	28 januari 2021
+technical lead developer	GZA Ziekenhuizen	Regio Antwerpen	Vaste Job	9 november 2020	10 december 2020
+Coördinator ICT - Systeem- en databasebeheer	UZ BRUSSEL	Brussel	Vaste Job	8 januari 2021	8 januari 2021
+Ervaren system engineer	LGA IT	GENT	Vaste Job	6 januari 2021	6 januari 2021
+System Engineer	WILLEMOT	GENT	Vaste Job	6 december 2020	6 december 2020
+Oracle ETL Developer	Smals	SINT-GILLIS	Vaste Job	19 januari 2021	19 januari 2021
+Dossier - en gegevensbeheerder	Departement Welzijn, Volksgezondheid en Gezin	BRUSSEL	Vaste Job	21 januari 2021	21 januari 2021
+Application Specialist	LGA IT	LOKEREN	Vaste Job	27 januari 2021	27 januari 2021
+Projectingenieur Industriële ICT	Pmc Process & Automation Solutions	TEMSE	Vaste Job	15 december 2020	15 december 2020
+Back-end developer - nodeJS	MEETMATCH	ZWIJNDRECHT	Vaste Job	13 januari 2021	13 januari 2021
+Administratief medewerker HR	Arcadius	NEDER-OVER-HEEMBEEK	Vaste Job	6 januari 2021	26 januari 2021
+Fs .Net Dev. voor complexe fleet software|Marktleider	Austin Bright	BERCHEM	Vaste Job	20 januari 2021	20 januari 2021
+Rechterhand IT Manager Lier	Robert Half	LIER	Vaste Job	27 januari 2021	27 januari 2021
+Software Ontwikkelaar innovatief landmetersbedrijf	MEET HET	Regio Gent	Vaste Job	23 november 2020	23 november 2020
+System Engineer gezocht voor 2021	First	MECHELEN	Vaste Job	16 maart 2020	13 januari 2021
+Artificial Intelligence Expert	COLRUYT GROUP	HALLE	Vaste Job	29 december 2020	8 januari 2021
+Innoverende full stack developer	VIND! ICT	IEPER	Vaste Job	4 december 2020	4 december 2020
+Project Manager IT	ACCENT Jobs for People	ROESELARE	Vaste Job	5 januari 2021	5 januari 2021
+Verantwoordelijke ICT	GEMEENTEBESTUUR HOEILAART	HOEILAART	Vaste Job	19 januari 2021	19 januari 2021
+Senior System Engineer	DATAPLAN INFORMATICA	ZEDELGEM	Vaste Job	20 september 2018	22 januari 2021
+Front-End Java Engineer	CORILUS	Regio Vilvoorde-Zaventem	Vaste Job	21 december 2020	21 december 2020
+Projectcoördinator	SURVEY ANYPLACE	ANTWERPEN	Vaste Job	18 januari 2021	18 januari 2021
+System/Network Engineer	LGA IT	GENT	Vaste Job	10 december 2020	10 december 2020
+ETL specialisten (via Smals)	VDAB - ICT	BRUSSEL	Vaste Job	19 november 2018	18 januari 2021
+Business Project Advisor	TVH PARTS HOLDING NV	WAREGEM	Vaste Job	21 oktober 2020	6 januari 2021
+Technical Application Owner - tewerkstelling Brussel/Antwerpen	COZIE	Brussel	Vaste Job	29 september 2020	15 januari 2021
+BI Analist-Specialist	Konvert Office	IEPER	Vaste Job	26 januari 2021	26 januari 2021
+Gepassioneerde Lead IT Business Analist! (m/v)	PASSION WORKS!	DIEST	Vaste Job	17 december 2020	24 januari 2021
+Innoverende analist - .NET software developer	VIND! ICT	IEPER	Vaste Job	17 november 2020	17 november 2020
+JAVA EN OPEN SOURCE ONTWIKKELAAR KONTICH (Antwerpen)	Xplore Group	KONTICH	Vaste Job	12 januari 2021	
+Interne IT Medewerker	VIND! ICT	GULLEGEM	Vaste Job	5 januari 2021	5 januari 2021
+Junior Reporting Consultant	ITRONIC	MELLE	Vaste Job	21 mei 2019	17 juni 2019
+Cybersecurity Analyst	COLRUYT GROUP	DEINZE	Vaste Job	9 juli 2020	27 oktober 2020
+Medior Network & Security Engineer	Brunel	SCHAARBEEK	Vaste Job	1 december 2020	1 december 2020
+IT Assistent Systemen	RAJAPACK	TONGEREN	Vaste Job	27 november 2020	27 januari 2021
+SAP Business Process Engineer	Rock Recruitment	KORTRIJK	Vaste Job	15 december 2020	22 januari 2021
+Security Engineer Digital Workplace	CEGEKA	HASSELT	Vaste Job	8 januari 2021	14 januari 2021
+ADMINISTRATIEF BEDIENDE	MULTISERVICE BURO	Regio Gent	Vaste Job	24 september 2020	14 januari 2021
+Medior Python ontwikkelaar	vind! Engineering Gent	KONTICH	Vaste Job	27 november 2020	27 november 2020
+Test Engineer (vaste indiensttreding)	CRAX IT	ANTWERPEN	Vaste Job	5 augustus 2020	6 januari 2021
+Senior ICT projectleider	SERTEC nv	HASSELT	Vaste Job	6 januari 2021	6 januari 2021
+SAP Software Developer	KATHOLIEKE UNIVERSITEIT TE LEUVEN	LEUVEN	Vaste Job	19 januari 2021	19 januari 2021
+Office Assistant Program Manager (Junior) (m/v/x)	METISELECT	Regio Leuven	Vaste Job	28 januari 2021	28 januari 2021
+Java Developer	JUVO	OEVEL	Vaste Job	21 september 2020	14 januari 2021
+Network Analyst	SELECT HR	LUMMEN	Vaste Job	26 januari 2021	26 januari 2021
+Project Assistent	VanRoey.be	TURNHOUT	Vaste Job	25 januari 2021	25 januari 2021
+Administratief bediende	LAMBRECHT NR 1 BANDEN	SINT-NIKLAAS	Vaste Job	26 juni 2020	6 januari 2021
+IoT Solution Engineer	VINTECC	RUMBEKE	Vaste Job	4 januari 2021	4 januari 2021
+Team Coördinator	XAMS SERVICES	KORTRIJK	Vaste Job	3 januari 2021	3 januari 2021
+Senior Python ontwikkelaar	vind! Engineering Gent	EREMBODEGEM	Vaste Job	2 december 2020	2 december 2020
+Ruby on Rails developer voor startup onderwijs	LICHTVIS	ASSEBROEK	Vaste Job	21 januari 2020	12 februari 2020
+Specialist rapportering (via Smals)	VDAB - ICT	BRUSSEL	Vaste Job	21 januari 2019	18 januari 2021
+Administratieve Medewerker	Pulso Europe	KESSEL-LO	Vaste Job	26 januari 2021	28 januari 2021
+Project Manager	AUTO1 Group	ANTWERPEN	Vaste Job	22 januari 2021	22 januari 2021
+IT software en netwerkbeheerder	NATUURPUNT VZW	MECHELEN	Vaste Job	4 januari 2021	
+Digital Transformation Analyst	ISTORM IT	ANTWERPEN	Vaste Job	15 december 2020	15 december 2020
+BI Engineer	COLRUYT GROUP	HALLE	Vaste Job	9 september 2019	9 september 2019
+Systeembeheerder	Konvert Office Hasselt	PAAL	Vaste Job	25 januari 2021	25 januari 2021
+IT Presales Architect	CONXION	DEERLIJK	Vaste Job	19 januari 2021	
+Customer service	YUSEN LOGISTICS BENELUX BV	MELSELE	Vaste Job	14 januari 2021	14 januari 2021
+Compute & Storage Services Engineer	COLRUYT GROUP	HALLE	Vaste Job	13 oktober 2020	
+Network Engineer	INFO SERVICE BELGIUM	GENT	Vaste Job	2 november 2020	2 november 2020
+Administratieve bediende Benelux (m/v)	Adecco	HARELBEKE	Vaste Job	3 december 2020	14 december 2020
+Analisten	Brunel	MECHELEN	Vaste Job	17 december 2020	17 december 2020
+Senior full-stack developer (m/v)	C&W LOGISTICS	HARELBEKE	Vaste Job	21 januari 2021	21 januari 2021
+Ervaren Front- end developer	Konvert Office Hasselt	GENK	Vaste Job	25 januari 2021	25 januari 2021
+Project manager Datacom en Security	SERTEC nv	Regio Gent	Vaste Job	13 januari 2021	13 januari 2021
+Senior SQL developer (m/v)	C&W LOGISTICS	HARELBEKE	Vaste Job	21 januari 2021	21 januari 2021
+Junior Solution Engineer IT Security	COLRUYT GROUP	HALLE	Vaste Job	5 augustus 2020	
+Business analist	FORUM JOBS	BRIELEN	Interim met optie "vast werk"	20 januari 2021	
+Customer service medewerker	Bleckmann België N.V.	GROBBENDONK	Tijdelijke job (met optie vast)	11 december 2020	11 december 2020
+Programmeur	Actief Kortrijk	HARELBEKE	Interim met optie "vast werk"	22 januari 2021	22 januari 2021
+Programmeur m/v zeer mooi bedrijf!	MOVE OFFICE	HARELBEKE	Interim met optie "vast werk"	25 januari 2021	25 januari 2021
+IT administrator	Vivaldis Interim	GRIMBERGEN	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+Application Engineer & Support	Talentus	HEVERLEE	Interim met optie "vast werk"	18 januari 2021	18 januari 2021
+Administratief medewerker productie	SYNERGIE CAREERS KLEIN-BRABANT	NIEL	Interim met optie "vast werk"	20 januari 2021	22 januari 2021
+IT Assistant	TRIXXO EXXPERTS ZUID-LIMBURG	TONGEREN	Interim met optie "vast werk"	22 januari 2021	22 januari 2021
+IT-medewerker	TALENTUS	WEVELGEM	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+Productie administrator - 2 ploegen	SD Worx Staffing Solutions Vilvoorde	NIEL	Interim met optie "vast werk"	20 januari 2021	20 januari 2021
+Business Analyst	Robert Half	IEPER	Interim met optie "vast werk"	13 januari 2021	13 januari 2021
+Contract Administrator - Diegem (EM)	Robert Half	DIEGEM	Interim Job (uitsluitend voor uitzendkantoren)	11 januari 2021	11 januari 2021
+Administratief Medewerker	Robert Half	LOKEREN	Interim met optie "vast werk"	15 januari 2021	15 januari 2021
+Business Analyst	TALENTUS	IEPER	Interim met optie "vast werk"	29 december 2020	29 december 2020
+Back-end Developer Software	Recrewtment	LOKEREN	Tijdelijke job (met optie vast)	22 januari 2021	22 januari 2021
+Administratief bediende	MANPOWER BRUGGE	OOSTENDE	Interim met optie "vast werk"	25 januari 2021	25 januari 2021
+E-shop Developer	AGO Jobs&HR	LEUVEN	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+Administratief Bediende	Konvert Interim Vlaanderen	BRUSSEL	Interim Job (uitsluitend voor uitzendkantoren)	26 januari 2021	26 januari 2021
+Software Test Engineer	Vivaldis Interim	MECHELEN	Interim met optie "vast werk"	11 september 2020	11 december 2020
+QA medewerker	Synergie Kempen Careers	OLEN	Interim Job (uitsluitend voor uitzendkantoren)	22 januari 2021	22 januari 2021
+Onthaal en administratief medewerker	Talentus	HEVERLEE	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+Helpdeskmedewerker ICT	KONVERT OFFICE	LOCHRISTI	Interim met optie "vast werk"	23 december 2020	23 december 2020
+Software architect	ACTIEF INTERIM	HOOGLEDE	Interim met optie "vast werk"	25 januari 2021	25 januari 2021
+Technisch administratief bediende - Deeltijds	Synergie Waregem Careers	KLUISBERGEN	Interim met optie "vast werk"	19 januari 2021	19 januari 2021
+Medewerker Incasso en Debiteurenbeheer Advocatenkantoor	Itzu Select	GENK	Vaste Job	25 januari 2021	25 januari 2021
+ICT-MEDEWERKER – O365 SYSTEEMBEHEERDER	Vestigingsplaats van Cvo Kisp	GENT	Tijdelijke job (niet via uitzendkantoren)	30 oktober 2020	12 januari 2021
+ICT-coördinator	SCHOLENGROEP GO! NEXT	HASSELT	Tijdelijke job (niet via uitzendkantoren)	7 januari 2021	20 januari 2021
+Administratief medewerker	MOJO	GENT	Interim met optie "vast werk"	19 januari 2021	19 januari 2021
+Dossierbeheerder Onderwijssecretariaat	Universiteit Antwerpen	ANTWERPEN	Tijdelijke job (met optie vast)	28 januari 2021	28 januari 2021
+PHP-developer bouwt SOCIAAL NETWERK	KOMMON BVBA	SINT-DENIJS-WESTREM	Tijdelijke job (met optie vast)	11 december 2019	3 december 2020
+Contract Administrator	METISELECT	DIEGEM	Tijdelijke job (met optie vast)	8 januari 2021	8 januari 2021
+Order Administrator	METISELECT	ZAVENTEM	Tijdelijke job (met optie vast)	8 december 2020	8 december 2020
+BI Consultant gezocht	INTERMEDIUM	KOUDEKERKE	Tijdelijke job (met optie vast)	4 januari 2021	4 januari 2021
+IT-Lead	Konvert Office Hasselt	HASSELT	Vaste Job	25 januari 2021	25 januari 2021
+BI-tester (via Smals)	VDAB - ICT	BRUSSEL	Vaste Job	21 januari 2019	18 januari 2021
+Java Developer	FOREACH	MERKSEM	Vaste Job	20 maart 2019	30 december 2020
+IT Infrastructure Architect	VIND! ICT	WAREGEM	Vaste Job	10 december 2020	10 december 2020
+IT business analyst	TecQuality Deinze	OOSTROZEBEKE	Vaste Job	12 januari 2021	12 januari 2021
+Java Developer	FOREACH	MECHELEN	Vaste Job	4 april 2019	30 december 2020
+Application Developer	CRAX IT	Regio Boom-Aartselaar	Vaste Job	20 oktober 2020	6 januari 2021
+Business Analist	P. C. SINT AMANDUS	BEERNEM	Vaste Job	11 januari 2021	11 januari 2021
+Lead Mendix Architect	BPM COMPANY BELGIUM	BOORTMEERBEEK	Vaste Job	26 november 2019	4 januari 2021
+PHP Back-end Developer (Regio Mechelen of Tervuren)	HR organizer	TERVUREN	Vaste Job	18 april 2020	27 januari 2021
+Fullstack .NET Developer Gent	CRAX IT	GENT	Vaste Job	24 juli 2020	6 januari 2021
+WEB DEVELOPER	TRENDSKOUT	GENT	Vaste Job	2 december 2019	20 november 2020
+Business Analist - Uitdagende IT projecten	SD Worx Staffing Solutions Kortrijk Office	OOSTROZEBEKE	Vaste Job	13 januari 2021	13 januari 2021
+Business Analyst Corporate Solutions	COLRUYT GROUP	HALLE	Vaste Job	11 december 2020	11 december 2020
+Junior BI Specialist	vanAnaarBETER.com	KORTRIJK	Vaste Job	15 januari 2021	25 januari 2021
+Lead Mendix Developer - regio Oost-Vlaanderen	BPM COMPANY BELGIUM	MERELBEKE	Vaste Job	9 juni 2020	4 januari 2021
+IT business analyst	Konvert Office	WIELSBEKE	Vaste Job	12 januari 2021	12 januari 2021
+Business and Development Controller met management ambities	Recrewtment	WILRIJK	Vaste Job	4 januari 2021	4 januari 2021
+Software Architect (Java)	FOREACH	MERKSEM	Vaste Job	20 maart 2019	30 november 2020
+Enterprise Content Manager	COLRUYT GROUP	HALLE	Vaste Job	26 januari 2021	26 januari 2021
+Junior/medior Consultants Workflow - CROXCON	CROXCON | TriFinance	ZAVENTEM	Vaste Job	1 april 2019	7 januari 2021
+Functioneel en Technisch Analist	Solid Talent nv	KALMTHOUT	Vaste Job	20 mei 2019	18 januari 2021
+oracle developer	S&you	BRUSSEL	Vaste Job	18 januari 2021	18 januari 2021
+Software Architect (Java)	FOREACH	MECHELEN	Vaste Job	4 april 2019	30 november 2020
+PHP Back-end Developer	HR organizer	Regio Mechelen	Vaste Job	12 juni 2020	20 januari 2021
+Operations Manager B2B	AUTO1 Group	ANTWERPEN	Vaste Job	30 oktober 2020	6 januari 2021
+Teamlead coax support team	TELENET	MECHELEN	Vaste Job	10 december 2020	10 december 2020
+Hands-on Technical Lead	NOVADO	SINT-ANDRIES	Vaste Job	14 mei 2020	14 mei 2020
+IT Business Analyst	Synergie Waregem Careers	WIELSBEKE	Interim met optie "vast werk"	12 januari 2021	
+M365 technical consultant	ORDINA Belgium	MECHELEN	Vervanging brugpensioen	30 juni 2020	30 juni 2020
+Tijdelijke System Engineer	Konvert Office Hasselt	HASSELT	Interim Job (uitsluitend voor uitzendkantoren)	25 januari 2021	25 januari 2021
+Field Engineer ICT (Brussel)	TRIXXO JOBS MECHELEN	BRUSSEL	Interim met optie "vast werk"	1 december 2020	1 december 2020
+IT System Administrator EU	Agilitas Neerpelt	HAMONT-ACHEL	Interim met optie "vast werk"	4 januari 2021	4 januari 2021
+IT business analyst	agilitas Waregem	WIELSBEKE	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+IT BUSINESS ANALYST REGIO WAREGEM	FORUM JOBS TIELT	OOSTROZEBEKE	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+Data Analyst	Step Up Consulting	LEUVEN	Vaste Job	12 januari 2021	
+Data/BI Consultant	Tri ICT Belux	Regio Gent	Vaste Job	9 augustus 2019	7 januari 2021
+Data Engineer Regio Brussel	UniPartners IT - Financial - Engineering Services	Brussel	Vaste Job	25 januari 2021	25 januari 2021
+Data/BI Consultant	Tri ICT Belux	Brussel	Vaste Job	8 augustus 2019	7 januari 2021
+Medior Microsoft Azure data consultant	KOHERA	LEUVEN	Vaste Job	4 december 2020	4 december 2020
+Medior Microsoft Azure data consultant	KOHERA	GENT	Vaste Job	4 december 2020	4 december 2020
+Medior Microsoft Azure data consultant	KOHERA	KORTRIJK	Vaste Job	4 december 2020	4 december 2020
+Data Analyst	Robert Half	MECHELEN	Vaste Job	27 januari 2021	27 januari 2021
+Data Analist te Kortrijk	Van Marcke	Regio Kortrijk	Vaste Job	20 januari 2021	20 januari 2021
+Junior/Medior Data Engineer	JUVO	Provincie Antwerpen	Vaste Job	1 december 2020	1 december 2020
+Data Engineer Regio Antwerpen	UniPartners IT - Financial - Engineering Services	Regio Antwerpen	Vaste Job	25 januari 2021	25 januari 2021
+Medior Microsoft Azure data consultant	KOHERA	BRUSSEL	Vaste Job	4 december 2020	4 december 2020
+Data Scientist	IMALINK	LOCHRISTI	Vaste Job	7 januari 2021	7 januari 2021
+Systeembeheerder-software developer	DATA M	WETTEREN	Vaste Job	5 augustus 2020	5 augustus 2020
+Software developer	DATA M	WETTEREN	Vaste Job	5 augustus 2020	5 augustus 2020
+Medior Microsoft Azure data consultant	KOHERA	KONTICH	Vaste Job	4 december 2020	4 december 2020
+System Engineer Hybrid Datacenters	AGO Jobs&HR	KORTRIJK	Vaste Job	21 december 2020	21 december 2020
+Student: data & procesoptimalisatie	Randstad	WIELSBEKE	Studentenjob	9 november 2020	14 januari 2021
+Data scientist - Wind energy intelligence	PAUWELS CONSULTING	BRUSSEL	Interim Job (uitsluitend voor uitzendkantoren)	22 januari 2021	22 januari 2021
+Master Data Medewerker	Robert Half	MEULEBEKE	Interim Job (uitsluitend voor uitzendkantoren)	25 januari 2021	25 januari 2021
+Masterdata & Content Administrator	Jobat	HERENTALS	Interim met optie "vast werk"	11 januari 2021	11 januari 2021
+MASTER DATA ADMINISTRATOR	FORUM JOBS TIELT	OOSTROZEBEKE	Interim met optie "vast werk"	3 december 2020	11 januari 2021
+Medior Microsoft DBA Consultant	KOHERA	KONTICH	Vaste Job	3 december 2020	3 december 2020
+Medior Microsoft DBA Consultant	KOHERA	GENT	Vaste Job	3 december 2020	3 december 2020
+Medior Microsoft DBA Consultant	KOHERA	KORTRIJK	Vaste Job	3 december 2020	3 december 2020
+Medior Microsoft DBA Consultant	KOHERA	BRUSSEL	Vaste Job	3 december 2020	3 december 2020
+Medior Microsoft DBA Consultant	KOHERA	LEUVEN	Vaste Job	3 december 2020	3 december 2020
+Systeembeheerder	START PEOPLE	PAAL	Interim met optie "vast werk"	27 januari 2021	27 januari 2021
+Oracle Databankbeheerder	INTERMEDIUM	KOUDEKERKE	Tijdelijke job (met optie vast)	11 januari 2021	11 januari 2021
+Test analist	Cipal Schaubroeck Geel	ZANDHOVEN	Vaste Job	15 december 2020	15 december 2020
+Analist – Software Ontwikkelaar	Gantner	IEPER	Vaste Job	12 januari 2021	
+DevOps Engineer Open Source Software	OPEN-FUTURE	KONTICH	Vaste Job	4 januari 2021	4 januari 2021
+Medior Microsoft BI Consultant	KOHERA	BRUSSEL	Vaste Job	4 december 2020	4 december 2020
+SAP BI Consultant	Ctac België	WOMMELGEM	Vaste Job	27 januari 2021	27 januari 2021
+Software Developer - Internal Tools	Unifiedpost SA	LA HULPE	Vaste Job	22 januari 2021	22 januari 2021
+Software Engineer Teradata	IMALINK	LOCHRISTI	Vaste Job	7 januari 2021	7 januari 2021
+Java Developer	Van Genechten Packaging ( Imas NV )	TURNHOUT	Vaste Job	12 januari 2021	
+Project Manager	Cloud Innovation	GENT	Vaste Job	8 oktober 2019	11 januari 2021
+Java & PL/SQL Developer (m/f/x)	Yechte Consulting EU	BRUSSEL	Vaste Job	11 januari 2021	11 januari 2021
+Software Quality Assurance Manager	WOLTERS KLUWER FINANCIAL SERVICES	GENT	Vaste Job	1 december 2020	1 december 2020
+Senior java developer voor hoogtechnologische omgeving	VIND! ICT	WIELSBEKE	Vaste Job	11 december 2020	11 december 2020
+Technical Salesforce.com CRM Consultant	C-CLEAR PARTNERS	MORTSEL	Vaste Job	5 november 2020	5 november 2020
+SAP Integration Consultant	FLEXSO	KONTICH	Vaste Job	23 november 2020	23 november 2020
+Technical Account Manager - French Speaking	SKYLINE COMMUNICATIONS	IZEGEM	Vaste Job	19 januari 2021	19 januari 2021
+System Administrator	Step Up Consulting	LEUVEN	Vaste Job	12 januari 2021	
+Operations Engineer	SKYLINE COMMUNICATIONS	IZEGEM	Vaste Job	19 januari 2021	19 januari 2021
+Junior system project engineer - Leuven	SBB Accountants & Adviseurs	Regio Leuven	Vaste Job	10 december 2020	17 december 2020
+Telecom Network Engineer	OTN SYSTEMS	OLEN	Vaste Job	10 augustus 2020	7 december 2020
+Utilities Business Consultant	Trilations	KONTICH	Vaste Job	12 januari 2021	
+Sales Engineer	Nubera	DIEGEM	Vaste Job	12 januari 2021	
+Mixed Reality Developer (Unity)	Mr. Watts	AARSCHOT	Vaste Job	19 november 2020	19 november 2020
+Python Developer Regio Antwerpen	UniPartners IT - Financial - Engineering Services	Regio Antwerpen	Vaste Job	25 januari 2021	25 januari 2021
+IT DEVELOPER	TecQuality Deinze	MERELBEKE	Vaste Job	28 januari 2021	28 januari 2021
+Project Manager IT	ElmosExpert	KORTRIJK	Vaste Job	22 januari 2021	22 januari 2021
+Medior Microsoft BI Consultant	KOHERA	KORTRIJK	Vaste Job	3 december 2020	3 december 2020
+Client Project Coordinator	SURVEY ANYPLACE	ANTWERPEN	Vaste Job	6 januari 2021	
+Full Stack Web Developer	Gantner	IEPER	Vaste Job	12 januari 2021	
+Interface specialist CEPD (Centraal Elektronisch Patiëntendossier)	AZ ST. LUCAS	GENT	Vaste Job	12 januari 2021	12 januari 2021
+Medior Microsoft BI Consultant	KOHERA	LEUVEN	Vaste Job	3 december 2020	3 december 2020
+Medior System Engineer	DVIT	ERPE-MERE	Vaste Job	12 januari 2021	
+Senior Full stack web developer	Gantner	IEPER	Vaste Job	12 januari 2021	
+Medior Microsoft BI Consultant	KOHERA	GENT	Vaste Job	3 december 2020	3 december 2020
+SAP HCM Consultant	FLEXSO	KONTICH	Vaste Job	23 november 2020	23 november 2020
+Medior Microsoft BI Consultant	KOHERA	KONTICH	Vaste Job	3 december 2020	3 december 2020
+Python Developer Regio Brussel	UniPartners IT - Financial - Engineering Services	Brussel	Vaste Job	25 januari 2021	25 januari 2021
+Network & Security Engineer	Brunel	MECHELEN	Vaste Job	17 december 2020	17 december 2020
+KYC Officer	SP Banking & Insurance Brussel	BRUSSEL	Vaste Job	21 januari 2021	21 januari 2021
+Business Intelligence Analyst	MENSURA EDPB BRUSSEL	SCHAARBEEK	Vaste Job	24 november 2020	24 november 2020
+QA mngr	USG Professionals	ANTWERPEN	Zelfstandige activiteit	25 januari 2021	25 januari 2021
+IT medewerker	Let's Work Kortrijk	GULLEGEM	Interim met optie "vast werk"	28 januari 2021	28 januari 2021
+Sales Assistant (Tijdelijke opdracht) (Regio: Eeklo)	AGO Jobs & HR Gent	EEKLO	Interim Job (uitsluitend voor uitzendkantoren)	8 januari 2021	8 januari 2021
+Key User WMS	START PEOPLE	HERENTALS	Interim met optie "vast werk"	6 januari 2021	6 januari 2021
+Customs Bediende / douane bediende (m/v)	Adecco Retail - Industrie - Hospitality	ZEEBRUGGE	Interim met optie "vast werk"	19 januari 2021	19 januari 2021
+Administratief bediende/planner	Adecco VEURNE	VEURNE	Interim met optie "vast werk"	5 januari 2021	25 januari 2021
+Software Specialist Osisoft	PAUWELS CONSULTING	Breda	Interim Job (uitsluitend voor uitzendkantoren)	21 januari 2021	21 januari 2021
+Functioneel Analist Regio Brussel	UniPartners IT - Financial - Engineering Services	Brussel	Vaste Job	22 januari 2021	25 januari 2021
+Application Analyst/Developer	CLEAR SKY SELECTION	Regio Boom-Aartselaar	Vaste Job	3 september 2020	24 november 2020
+Senior Functioneel Analist Regio Antwerpen	UniPartners IT - Financial - Engineering Services	Regio Antwerpen	Vaste Job	22 januari 2021	25 januari 2021
+Front-end developer SharePoint & E-commerce	GMI group	OEVEL	Vaste Job	27 januari 2021	27 januari 2021
+Lead Back-end Developer	STRIVECLOUD	GENT	Vaste Job	23 december 2020	23 december 2020
+Embedded Software Developer	OTN SYSTEMS	OLEN	Vaste Job	26 november 2020	26 november 2020
+Consultant HR-applicatie	Cipal Schaubroeck Geel	GEEL	Vaste Job	23 december 2020	23 december 2020
+Software Engineer	Dover Fueling Solutions	TURNHOUT	Vaste Job	12 januari 2021	
+Solution Consultant Hospital Financial Management & Budgeting	AEXIS	SINT-STEVENS-WOLUWE	Vaste Job	5 november 2020	5 november 2020
+Qt/C++ Software Developer	Elsyca	WIJGMAAL	Vaste Job	17 november 2020	17 november 2020
+Senior Functioneel Analist Regio Brussel	UniPartners IT - Financial - Engineering Services	Brussel	Vaste Job	22 januari 2021	25 januari 2021
+Junior Allround Developer	STAR MEAL	WESTERLO	Vaste Job	9 december 2020	9 december 2020
+Medior Java Developer	INTIX	MECHELEN	Vaste Job	12 januari 2021	
+Solution Architect nexuzhealth	CEGEKA	LEUVEN	Vaste Job	15 januari 2021	18 januari 2021
+FULL STACK DEVELOPER (PHP)	CRAX IT	KONTICH	Vaste Job	30 november 2020	6 januari 2021
+Lead Developer	CONNECT HUMAN CAPITAL	ANTWERPEN	Vaste Job	11 december 2020	11 december 2020
+Application Software Developer	MGB Tech	DENDERMONDE	Vaste Job	12 januari 2021	
+Dynamics 365 F&O Integration Specialist	IFACTO BUSINESS SOLUTIONS	KONTICH	Vaste Job	2 december 2020	2 december 2020
+Business Developer - MGB Tech	MGB Tech	DENDERMONDE	Vaste Job	12 januari 2021	
+Functioneel Analist Regio Antwerpen	UniPartners IT - Financial - Engineering Services	Regio Antwerpen	Vaste Job	22 januari 2021	25 januari 2021
+PHP Developer	MARLON	GENT	Vaste Job	4 januari 2021	4 januari 2021
+ITSM Change Manager	VIND! ICT	WAREGEM	Vaste Job	25 januari 2021	25 januari 2021
+IT business analyst	FORUM JOBS WAREGEM	OOSTROZEBEKE	Interim met optie "vast werk"	11 januari 2021	11 januari 2021
+Field Engineer ICT (Brussel)	TRIXXO JOBS DEINZE	HEVERLEE	Interim met optie "vast werk"	28 december 2020	28 december 2020
+SGS Group Belgium - Secure Data Manager	StepStone	MECHELEN	Vaste Job	15 januari 2021	22 januari 2021
+SGS Group Belgium - Master Sciences - Clinical Data Manager	StepStone	MECHELEN	Vaste Job	14 januari 2021	26 januari 2021
+FERN VALLEY - Data Manager	StepStone	GENT	Vaste Job	13 januari 2021	27 januari 2021
+SGS Group Belgium - Biomedical Sciences Clinical Data Manager	StepStone	MECHELEN	Vaste Job	10 december 2020	10 december 2020
+Data Engineer	NARATO	KONTICH	Vaste Job	2 december 2020	2 december 2020
+Data Modeler & Analyst for Market Risks - Risk Analytics	USG Professionals	SINT-JANS-MOLENBEEK	Vaste Job	8 januari 2021	14 januari 2021
+SGS Group Belgium - Biomedical Sciences Clinical Data Manager	StepStone	MECHELEN	Vaste Job	10 december 2020	10 december 2020
+Solution Architect Meta Data Lineage & Data Governance	USG Professionals	SINT-JANS-MOLENBEEK	Zelfstandige activiteit	18 januari 2021	
+Big Data Engineer	USG Professionals	LEUVEN	Zelfstandige activiteit	18 januari 2021	18 januari 2021
+Tijdelijke Datacross Advisor	TVH PARTS HOLDING NV	WAREGEM	Tijdelijke job (met optie vast)	15 januari 2021	15 januari 2021
+BI Engineer	Mediahuis	ANTWERPEN	Vaste Job	18 december 2020	25 januari 2021
+Database Administrator MySQL & MS SQL Server	Smals	BRUSSEL	Vaste Job	18 januari 2021	18 januari 2021
+Database Administrator	Smals	BRUSSEL	Vaste Job	15 januari 2021	15 januari 2021
+SQL DBA	USG Professionals	EVERE	Zelfstandige activiteit	26 januari 2021	26 januari 2021
+Business Intelligence Analyst	MENSURA EDPB BRUSSEL	SCHAARBEEK	Vaste Job	24 november 2020	24 november 2020
+PCM Applicatie Verantwoordelijke	AGO Jobs&HR	WEVELGEM	Vaste Job	18 januari 2021	18 januari 2021
+Integratie architect CEPD (Centraal Elektronisch Patiëntendossier)	AZ ST. LUCAS	GENT	Vaste Job	12 januari 2021	12 januari 2021
+IT Analist	AGO Jobs&HR	TIELT	Vaste Job	29 december 2020	29 december 2020
+Application Developer	Jigso	HOBOKEN	Vaste Job	7 januari 2021	7 januari 2021
+Argenta - Sales Development Analist	StepStone	ANTWERPEN	Vaste Job	23 januari 2021	23 januari 2021
+Analist-Programmeur	START PEOPLE Inhouse Estee Lauder	OEVEL	Vaste Job	17 december 2020	21 december 2020
+SGS Group Belgium - .Net Developer	StepStone	ANTWERPEN	Vaste Job	8 december 2020	8 december 2020
+Python Developer	USG Professionals	LEUVEN	Vaste Job	20 januari 2021	20 januari 2021
+Information Security & Privacy Technical Specialist	AGFA-GEVAERT N.V.	MORTSEL	Vaste Job	18 december 2020	18 december 2020
+Dynatrace and Elastic APM Consultant	USG Professionals	LEUVEN	Vaste Job	20 januari 2021	20 januari 2021
+Lead Engineer Digitalisatie - Vilvoorde	ACTEMIUM BELGIUM	VILVOORDE	Vaste Job	28 januari 2021	28 januari 2021
+Cybersecurity Specialist	Smals	SINT-GILLIS	Vaste Job	21 januari 2021	21 januari 2021
+Lead for JEDI project	USG Professionals	PUURS-SINT-AMANDS	Zelfstandige activiteit	25 januari 2021	25 januari 2021
+EUROPEAN UNION JU - Administrative Assistant - 6 months	START PEOPLE	ELSENE	Interim Job (uitsluitend voor uitzendkantoren)	28 januari 2021	28 januari 2021
+Logistics Regulatory Associate	UNIQUE	MECHELEN	Interim Job (uitsluitend voor uitzendkantoren)	7 januari 2021	7 januari 2021
+Functional Analyst integration Moody's analytics liquidity solution	USG Professionals	SINT-JANS-MOLENBEEK	Zelfstandige activiteit	23 januari 2021	23 januari 2021
+Functional Analyst - Bank/insurance specific team IFRS17	USG Professionals	SINT-JANS-MOLENBEEK	Zelfstandige activiteit	26 januari 2021	26 januari 2021
+BI Tester	Smals	BRUSSEL	Vaste Job	30 november 2020	21 december 2020
+Security and Infrastructure Architect	Badenoch & Clark	WILLEBROEK	Vaste Job	12 januari 2021	12 januari 2021
+Gedreven Young Professionals	Ackinas	KONTICH	Vaste Job	4 december 2020	25 december 2020
+IT project leader (infrastructure)	VIND! ICT	WAREGEM	Vaste Job	16 november 2020	16 november 2020
+Functional analyst	NARATO	KONTICH	Vaste Job	26 november 2020	26 november 2020
+Project Engineer Validation (IT / Farma)	TORMANS - KANTOOR MECHELEN	Regio Bornem-Puurs-Willebroek	Vaste Job	18 januari 2021	18 januari 2021
+Sales administrator with knowledge of Java	ADECCO Vilvoorde	VILVOORDE	Interim met optie "vast werk"	3 januari 2021	7 januari 2021
+Management Assistant FR/ANG	UNIQUE	BRUSSEL	Interim met optie "vast werk"	18 januari 2021	18 januari 2021
+Data Warehouse PostgreSQL Administrator	Smals	BRUSSEL	Vaste Job	15 januari 2021	15 januari 2021
+BUY WAY Personal Finance - Junior Data Protection Officer	StepStone	BRUSSEL	Vaste Job	6 december 2020	6 december 2020
+BUY WAY Personal Finance - Junior Data Protection Officer	StepStone	BRUSSEL	Vaste Job	6 december 2020	6 december 2020
+AXA Belgium - Release Manager	StepStone	BRUSSEL	Vaste Job	28 januari 2021	28 januari 2021
+Conessence - Business Analyst	StepStone	IEPER	Vaste Job	8 december 2020	8 december 2020
+Software Developer	Fit IT nv	MERELBEKE	Vaste Job	2 december 2020	2 december 2020
+Conessence - Business Analyst	StepStone	IEPER	Vaste Job	8 december 2020	8 december 2020
+Experis - RPA Developer (permanent position Brussels)	StepStone	BRUSSEL	Vaste Job	14 januari 2021	19 januari 2021
+Elia nv/sa - IT Project Manager - Transparency	StepStone	BRUSSEL	Vaste Job	12 januari 2021	19 januari 2021
+AXA Belgium - Integration Analyst - Technical Designer	StepStone	BERCHEM	Vaste Job	9 december 2020	9 december 2020
+HAYS - JAVA SOFTWARE ENGINEER MECHELEN	StepStone	MECHELEN	Vaste Job	20 januari 2021	
+Microsoft System Engineer	Fit IT nv	HAREN (BRUSSEL-STAD)	Vaste Job	20 januari 2021	20 januari 2021
+Synergie Belgium nv - Junior Logistics Planning Analyst	StepStone	GRIMBERGEN	Tijdelijke job (niet via uitzendkantoren)	13 januari 2021	20 januari 2021
+Realdolmen - Business Analyst	StepStone	BRUSSEL	Vaste Job	7 december 2020	7 december 2020
+De Lijn - Analist-programmeur Python	StepStone	MECHELEN	Vaste Job	23 januari 2021	27 januari 2021
+IT- Business Analyst	Argon Selectie	ROESELARE	Vaste Job	18 januari 2021	18 januari 2021
+Experis - QA Analyst Complaints	StepStone	PUURS-SINT-AMANDS	Vaste Job	9 december 2020	9 december 2020
+Smals - Advisor Functional Analyst	StepStone	SINT-GILLIS	Vaste Job	5 januari 2021	19 januari 2021
+Realdolmen - Business Analyst	StepStone	BRUSSEL	Vaste Job	7 december 2020	7 december 2020
+Integration Analist - Technical Designer	Experis Belgium	Provincie Antwerpen	Vaste Job	15 januari 2021	15 januari 2021
+SAP Cloud Integration Consultant	Flexso Digital	Provincie West-Vlaanderen	Vaste Job	23 januari 2021	23 januari 2021
+SAP ABAP Development Consultant	Flexso Digital	Provincie West-Vlaanderen	Vaste Job	23 januari 2021	23 januari 2021
+FREESTONE - Business Process Analyst Real Estate & Facilities	StepStone	WEMMEL	Vaste Job	10 december 2020	10 december 2020
+SAP Analyst	Delta Light	Provincie West-Vlaanderen	Vaste Job	15 december 2020	5 januari 2021
+DATABASE SUPPORT	ANEMO ENGINEERING	DIKSMUIDE	Vaste Job	5 januari 2021	12 januari 2021
+Database Administrator	LGA IT	GENT	Vaste Job	21 januari 2021	21 januari 2021
+Oracle Database Administrator	Uptime Group	EDEGEM	Vaste Job	2 december 2020	2 december 2020
+Monitoring Engineer	Smals	BRUSSEL	Vaste Job	12 januari 2021	12 januari 2021
+Netwerk & System engineer	Trixxo jobs Aarschot	HERENTALS	Interim met optie "vast werk"	5 december 2020	5 december 2020
+Application Developer	Konvert Office	TEMSE	Vaste Job	11 januari 2021	11 januari 2021
+System Engineer	Smals	BRUSSEL	Vaste Job	22 oktober 2020	28 januari 2021
+Business Application Owner	Smals	BRUSSEL	Vaste Job	12 oktober 2020	28 januari 2021
+Custom Software Developer	DUTOICT	ZWIJNAARDE	Vaste Job	10 oktober 2019	10 oktober 2019
+Technical Application Owner	Smals	SINT-GILLIS	Vaste Job	28 januari 2021	28 januari 2021
+Junior Java developer	VIND! ICT	WIELSBEKE	Vaste Job	24 januari 2021	24 januari 2021
+Windows System Engineer	Smals	BRUSSEL	Vaste Job	12 januari 2021	12 januari 2021
+Application Developer	AGO Jobs&HR	TEMSE	Vaste Job	13 januari 2021	13 januari 2021
+Full Stack Developer .NET/Angular & React	ElmosExpert	HASSELT	Vaste Job	31 december 2020	26 januari 2021
+Node.js back-end engineer	CORILUS	Regio Gent	Vaste Job	28 januari 2021	28 januari 2021
+Netwerk/System Engineer	3-it	DESSEL	Vaste Job	17 augustus 2020	20 januari 2021
+Linux System Engineer	Smals	BRUSSEL	Vaste Job	24 juli 2019	28 januari 2021
+Network Engineer	Smals	BRUSSEL	Vaste Job	16 december 2020	16 december 2020
+Back-end ontwikkelaar/programmeur - analist	WISA	KESSEL-LO	Vaste Job	12 maart 2020	17 december 2020
+OPERATOR PERSONALISATIE	GRAPHIUS GROUP	OOSTAKKER	Vaste Job	22 januari 2021	22 januari 2021
+software developer	GZA Ziekenhuizen	Regio Antwerpen	Vaste Job	18 januari 2021	18 januari 2021
+Software developer	CONTEC	Regio Antwerpen	Vaste Job	19 november 2020	19 november 2020
+Linux System Operator	Smals	BRUSSEL	Vaste Job	21 januari 2020	28 januari 2021
+Integrator Building Automation Systems HVAC	SUMI Smart & Connected Buildings	HEULE	Vaste Job	21 augustus 2020	21 augustus 2020
+.NET Developer Cloud oplossingen	ElmosExpert	HASSELT	Vaste Job	22 januari 2021	22 januari 2021
+Software Developer	FRAEYE HARDWARE GROUP	OUDENAARDE	Vaste Job	20 januari 2021	20 januari 2021
+Full Stack Developer	Prior-IT	ZWIJNAARDE	Vaste Job	6 december 2020	13 januari 2021
+Technical Support Officer	Smals	SINT-GILLIS	Vaste Job	21 januari 2021	21 januari 2021
+PostgreSQL - Linux administrator	Smals	BRUSSEL	Vaste Job	17 juli 2020	28 januari 2021
+Log Management Specialist	Smals	BRUSSEL	Vaste Job	24 februari 2020	28 januari 2021
+Full-Stack .NET Developer	ZIEKENHUIS INKENDAAL	VLEZENBEEK	Vaste Job	21 december 2020	21 december 2020
+SAS Specialist	Smals	BRUSSEL	Vaste Job	26 november 2020	26 november 2020
+System Engineer	LGA IT	ROESELARE	Vaste Job	11 januari 2021	11 januari 2021
+Junior C# Full Stack Developer voor stabiel en gezond bedrijf	vind! Engineering Gent	SINT-MARTENS-LATEM	Vaste Job	16 november 2020	16 november 2020
+SCCM Expert	Smals	BRUSSEL	Vaste Job	16 december 2020	16 december 2020
+Mainframe &#8211; Linux System Administrator	Smals	BRUSSEL	Vaste Job	26 november 2020	26 november 2020
+IT Support	Vivaldis Interim	KALMTHOUT	Interim met optie "vast werk"	7 januari 2021	7 januari 2021
+Junior .NET en Angular ontwikkelaar	SMART BUSINESS PARTNER	SINT-AGATHA-BERCHEM	Tijdelijke job (met optie vast)	18 januari 2021	18 januari 2021
+Gepassioneerde Microsoft System Engineer voor IT-Support! (m/v)	PASSION WORKS!	Regio Hasselt	Vaste Job	16 november 2020	24 januari 2021
+IT Infrastructure Engineer	Brunel	MECHELEN	Vaste Job	7 december 2020	7 december 2020
+ICT - Supportmedewerker 2de lijn	UZ BRUSSEL	Brussel	Vaste Job	13 januari 2021	18 januari 2021
+DevOps / Cloud Engineer	VIND! ICT	ROESELARE	Vaste Job	21 januari 2021	21 januari 2021
+System Engineer Directory Services	COLRUYT GROUP	DEINZE	Vaste Job	17 december 2020	17 december 2020
+Security Specialist	VanRoey.be	Regio Antwerpen	Vaste Job	25 januari 2021	25 januari 2021
+ICT Systeembeheerder	WISA	KESSEL-LO	Vaste Job	12 oktober 2020	4 januari 2021
+Azure Cloud architect	Aptus	BISSEGEM	Vaste Job	14 januari 2021	14 januari 2021
+Medewerker informatica laboratorium	AZ GROENINGE	KORTRIJK	Vaste Job	22 januari 2021	22 januari 2021
+Back Office Medewerker	ENTACO NV - NERTA	LOKEREN	Vaste Job	8 december 2020	8 december 2020
+Cloud engineer	Debreuck - Neirynck	ROESELARE	Vaste Job	26 januari 2021	26 januari 2021
+Deskundige Informatica	ECOWERF	WILSELE	Vaste Job	13 november 2020	20 november 2020
+Servicedesk medewerker	RENTOKIL	AARTSELAAR	Vaste Job	28 januari 2021	28 januari 2021
+Ervaren Java Developer	Konvert Office Hasselt	GENK	Vaste Job	25 januari 2021	25 januari 2021
+.NET ontwikkelaar - Sterke work/life balans nodig?	Austin Bright	WILRIJK	Vaste Job	18 januari 2021	18 januari 2021
+administratief bediende chemie	SELECT HUMAN RESOURCES	OUDENAARDE	Vaste Job	26 januari 2021	26 januari 2021
+Analist-programmeur .NET	VIND! ICT	ROESELARE	Vaste Job	21 januari 2021	21 januari 2021
+Administratief Medewerker	Robert Half	ZAVENTEM (CORPORATE VILLAGE)	Interim Job (uitsluitend voor uitzendkantoren)	27 januari 2021	27 januari 2021
+Administratief Medewerker	Robert Half	EREMBODEGEM	Interim Job (uitsluitend voor uitzendkantoren)	19 januari 2021	19 januari 2021
+Administratief Bediende	Vivaldis Interim	WETTEREN	Interim met optie "vast werk"	25 januari 2021	25 januari 2021
+ADMINISTRATIEF BEDIENDE AANBESTEDINGEN	MANPOWER	WETTEREN	Interim met optie "vast werk"	4 januari 2021	
+Senior ict projectleider	Vivaldis Interim	HASSELT	Interim met optie "vast werk"	26 januari 2021	28 januari 2021
+Deskundige Informatica	Agilitas Leuven	WILSELE	Interim met optie "vast werk"	29 december 2020	29 december 2020
+TIJDELIJK BEDIENDE AANKOOP/PLANNING KENNIS SAP, regio IZEGEM	AGO Roeselare Office	IZEGEM	Interim Job (uitsluitend voor uitzendkantoren)	13 januari 2021	13 januari 2021
+ADMINISTRATIEF BEDIENDE CHEMIE	AGO Jobs & HR	OUDENAARDE	Interim Job (uitsluitend voor uitzendkantoren)	13 januari 2021	13 januari 2021
+Administratief bediende aanbestedingen	Bright Plus	WETTEREN	Interim met optie "vast werk"	11 januari 2021	11 januari 2021
+Account advisor privé leasing (tijdelijk) (m/v/x)	ITZU JOBS	DIEGEM	Interim met optie "vast werk"	26 januari 2021	
+Junior Paralegal Assistant	Robert Half	DIEGEM	Interim Job (uitsluitend voor uitzendkantoren)	28 januari 2021	28 januari 2021
+Account advisor autosector (tijdelijk) (m/v/x)	ITZU JOBS	DIEGEM	Interim met optie "vast werk"	25 januari 2021	25 januari 2021
+Administratief bediende / Tuinarchitect(e)	Xtra Construct	PUTTE	Interim met optie "vast werk"	28 januari 2021	28 januari 2021
+Helpdeskmedewerker	Vivaldis Interim	HASSELT	Interim met optie "vast werk"	4 januari 2021	4 januari 2021
+System & DevOps Engineer	CIPAL SCHAUBROECK	NAZARETH	Vervanging brugpensioen	3 juli 2019	1 oktober 2019
+Deeltijdse medewerker kwaliteit	AGO Oudenaarde Office	DEINZE	Interim met optie "vast werk"	13 januari 2021	13 januari 2021
+ADMINISTRATIEF BEDIENDE PARTTIME - TIJDELIJKE OPDRACHT, regio IZEGEM	AGO Roeselare Office	IZEGEM	Interim Job (uitsluitend voor uitzendkantoren)	29 december 2020	29 december 2020
+Tijdelijk Administratief Bediende (4/5de mogelijk)	Bright Plus	ANTWERPEN	Tijdelijke job (met optie vast)	21 januari 2021	21 januari 2021
+Web Developer (Full Stack)	AGO Jobs&HR	IEPER	Vaste Job	15 januari 2021	15 januari 2021
+Innoverende .NET developer / architect	VIND! ICT	IEPER	Vaste Job	7 december 2020	7 december 2020
+Senior Software Developer & Architect - Technical Automation (M/V/X)	Trescal	BERCHEM	Vaste Job	9 september 2020	21 januari 2021
+PHP Developers	Phronesyss	HERENTALS	Vaste Job	22 januari 2021	22 januari 2021
+Junior / Senior Software Engineer	INTRION	HUIZINGEN	Vaste Job	27 juni 2017	22 februari 2019
+Analist/programmeur Dynamics NAV / Business Central	BRACHOT-HERMANT N.V.	DEINZE	Vaste Job	5 december 2020	7 december 2020
+Microsoft .NET Developer	ECQ APPLICATIONS	RAMSEL	Vaste Job	21 augustus 2018	14 november 2020
+Network & security engineer	ASP BE ASP APPLICATION SERVICE PROV	VORST	Vaste Job	13 januari 2021	13 januari 2021
+(Junior) System Engineer	LGA IT	GENT	Vaste Job	30 december 2020	30 december 2020
+Analyst B2B-communicatie	COLRUYT GROUP	HALLE	Vaste Job	2 oktober 2020	2 oktober 2020
+Java Software Engineer	Smals	BRUSSEL	Vaste Job	11 maart 2020	28 januari 2021
+System engineer	OFFISERVICES	BRECHT	Vaste Job	14 januari 2021	14 januari 2021
+SOFTWARE DEVELOPERS (Medior-Senior)	OMETA	WOMMELGEM	Vaste Job	23 november 2016	22 december 2020
+Hardware Sales en Support Manager	COMPUTER CHECKPOINT	SINT-DENIJS-WESTREM	Vaste Job	22 december 2020	22 december 2020
+Analist / PHP-webdeveloper	INVENTIS	OUDSBERGEN	Vaste Job	13 januari 2021	13 januari 2021
+PROJECT MANAGER	TRENDSKOUT	GENT	Vaste Job	2 december 2019	20 november 2020
+Windev Developer	Smals	BRUSSEL	Vaste Job	3 juli 2020	28 januari 2021
+IAM Consultants	PLURALIT EUROPE	MECHELEN	Vaste Job	4 augustus 2020	28 januari 2021
+Applicatiebeheerder (m/v)	Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw	SINT-MICHIELS	Vaste Job	19 oktober 2020	18 januari 2021
+Technisch teamlead	CRAX IT	Regio Gent	Vaste Job	6 januari 2021	6 januari 2021
+C# Developer - Project Manager	NOVADO	SINT-ANDRIES	Vaste Job	14 mei 2020	18 mei 2020
+Junior IT Engineer	Amadys	BRECHT	Vaste Job	17 december 2020	26 januari 2021
+.NET Developer - Regio Antwerpen	TDK Solutions	Regio Antwerpen	Vaste Job	31 januari 2020	31 januari 2020
+Ervaren system engineer	WIT-GELE KRUIS VAN ANTWERPEN	HERENTALS	Vaste Job	14 januari 2021	14 januari 2021
+System Engineer	LGA IT	GENT	Vaste Job	9 december 2020	9 december 2020
+Identity & Access Management system engineer (via Smals)	VDAB - ICT	BRUSSEL	Vaste Job	19 november 2018	18 januari 2021
+ICT medewerker- Systeembeheerder ( M/V)	AZ ZENO	KNOKKE-HEIST	Vaste Job	26 januari 2021	26 januari 2021
+Netwerk Engineer ( M/V ) - West Vlaanderen	TDK Solutions	Regio Roeselare-Izegem	Vaste Job	28 februari 2020	28 februari 2020
+System Engineer	ASP BE ASP APPLICATION SERVICE PROV	VORST	Vaste Job	13 januari 2021	13 januari 2021
+System Engineer Regio Antwerpen	UniPartners IT - Financial - Engineering Services	Regio Antwerpen	Vaste Job	1 december 2020	25 januari 2021
+Support engineer applicaties	LGA IT	ROESELARE	Vaste Job	27 januari 2021	27 januari 2021
+System engineer die projectmatig wil werken	VIND! ICT	GITS	Vaste Job	26 december 2020	26 december 2020
+Full Stack Software Developer Angular	FLIR	BELLEGEM	Vaste Job	12 januari 2021	
+Senior Laravel Developer	PATHOMATION	WILRIJK	Vaste Job	31 december 2020	6 januari 2021
+Full stack developer	KONVERT INTERIM VLAANDEREN NV	KORTRIJK	Vaste Job	17 november 2020	17 januari 2021
+System Engineer	LGA IT	GENT	Vaste Job	15 januari 2021	15 januari 2021
+System Engineer Regio Brussel	UniPartners IT - Financial - Engineering Services	Brussel	Vaste Job	1 december 2020	25 januari 2021
+.NET project manager op zoek naar een 2de thuis	VIND! ICT	SINT-ANDRIES	Vaste Job	13 januari 2021	13 januari 2021
+security engineer	HAVENBEDRIJF ANTWERPEN	ANTWERPEN	Vaste Job	24 december 2020	24 december 2020
+Angular 8 full stack developer / programmeur	ICE TECHNOLOGIES	ZEMST	Vaste Job	14 december 2020	16 december 2020
+Applicatiebeheerder	Az Damiaan	OOSTENDE	Vaste Job	12 oktober 2020	18 december 2020
+Software Architect	CRAX IT	Regio Gent	Vaste Job	6 januari 2021	6 januari 2021
+Senior PHP Developer	Smals	BRUSSEL	Vaste Job	26 november 2020	26 november 2020
+SAP BC Consultant (SAP System Engineer)	EXERTUM BELGIUM	STROMBEEK-BEVER	Vaste Job	12 december 2019	22 december 2020
+MEDEWERKER IT APPLICATION SUPPORT	ALHEEMBOUW	OOSTNIEUWKERKE	Vaste Job	6 januari 2021	
+ICT Coördinator	Vivaldis Interim	IEPER	Interim met optie "vast werk"	30 november 2020	30 november 2020
+Software architect	Vivaldis Interim	GEEL	Interim met optie "vast werk"	28 januari 2021	28 januari 2021
+Deskundige Informatica	Synergie Leuven Careers	WILSELE	Interim met optie "vast werk"	21 januari 2021	21 januari 2021
+Digitale Project Manager	Randstad	OUDERGEM	Interim Job (uitsluitend voor uitzendkantoren)	20 januari 2021	20 januari 2021
+Jobstudent IT Junior Java Developer	Software365	SINT-NIKLAAS	Studentenjob	22 november 2020	21 januari 2021
+Network Engineer	LIPA DATACENTER	DIEPENBEEK	Vaste Job	2 december 2020	2 december 2020
+Contract Database Assistant 1 day a week	Arega Pharma	WILRIJK	Studentenjob	19 januari 2021	19 januari 2021
+Support Engineer (2ND/3RD Line)	LGA IT	KORTRIJK	Vaste Job	7 januari 2021	7 januari 2021
+Software Developer	CCVLAB	KORTRIJK	Vaste Job	8 oktober 2020	8 oktober 2020
+Microsoft .Net Ontwikkelaar	DIENSTEN AAN HUIS	BRUGGE	Vaste Job	24 januari 2020	16 juni 2020
+.NET Webdeveloper	CASIUS	LOKEREN	Vaste Job	27 januari 2021	27 januari 2021
+Junior Full Stack Developer	USG Professionals	LEUVEN	Vaste Job	27 januari 2021	27 januari 2021
+FULL STACK WEB DEVELOPER	Reality Matters	MECHELEN	Vaste Job	11 januari 2021	11 januari 2021
+Web Developer	CONTEC	ANTWERPEN	Vaste Job	26 november 2020	26 november 2020
+.NET Developer	AD VALVAS EUROPE	SINT-DENIJS-WESTREM	Vaste Job	27 januari 2021	27 januari 2021
+.NET Developer	BIMSOFT	MARKE	Vaste Job	26 november 2020	26 november 2020
+Microsoft .NET ontwikkelaar	DIENSTEN AAN HUIS	ASSEBROEK	Vaste Job	4 januari 2021	4 januari 2021
+.NET developer	Dienstenaanhuis	ASSEBROEK	Vaste Job	12 januari 2021	
+Web & Mobile Application Support	CTG Belgium	DIEGEM	Vaste Job	13 februari 2020	22 januari 2021
+Infrastructure Support Engineer	ROLAND CENTRAL EUROPE NV	OEVEL	Vaste Job	2 december 2020	2 december 2020
+Vision Engineer	Octinion	HEVERLEE	Vaste Job	5 januari 2021	5 januari 2021
+System Engineer	UZ BRUSSEL	Brussel	Vaste Job	4 januari 2021	4 januari 2021
+Administrative Assistant (deeltijds)	Adecco Recruitment Branch	MERELBEKE	Vaste Job	25 januari 2021	25 januari 2021
+Junior Security Engineer	VanRoey.be	TURNHOUT	Vaste Job	25 januari 2021	25 januari 2021
+Backend API Developer	Rock Recruitment	BRUGGE	Vaste Job	4 november 2020	22 januari 2021
+Administratief Bediende Export	START PEOPLE	OUDENAARDE	Interim met optie "vast werk"	27 januari 2021	27 januari 2021
+Administratieve duizendpoot	move interim	Regio Kortrijk	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+Administratief bediende het Waasland	Bright Plus	VRASENE	Interim met optie "vast werk"	30 december 2020	30 december 2020
+Technical Administrative Support Telecom - NL/FR - M/V/X	Jobmatch	SCHAARBEEK	Interim met optie "vast werk"	21 december 2020	22 januari 2021
+Administratief bediende (boekhouding) - regio Halle	UNIQUE OFFICE	HALLE	Interim met optie "vast werk"	18 december 2020	18 december 2020
+Administratief bediende aanbestedingen	UNIQUE GENT	WETTEREN	Interim met optie "vast werk"	27 januari 2021	27 januari 2021
+Management Assistant (m/v)	UNIQUE	BRUSSEL	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+regulatory compliance officer	ADECCO	IEPER	Interim met optie "vast werk"	11 januari 2021	11 januari 2021
+Administratief medewerker | Uitgeverij	UNIQUE KIK	MORTSEL	Interim met optie "vast werk"	17 december 2020	
+IT Support & Systems Engineer	ECE	ERPE-MERE	Vaste Job	11 december 2020	11 december 2020
+System Engineer	ALFA SOLUTIONS	WAREGEM	Vaste Job	18 november 2020	18 november 2020
+Full stack .net developer (consultant) / held	VIND! ICT	KORTRIJK	Vaste Job	23 november 2020	23 november 2020
+Senior Software Developer (Ieper)	Gantner	IEPER	Vaste Job	12 januari 2021	
+JUNIOR .NET DEVELOPER	AdValvas Europe	SINT-MARTENS-LATEM	Vaste Job	12 januari 2021	
+Programmeur	CDSCA	NEDER-OVER-HEEMBEEK (BRUSSEL-STAD)	Vaste Job	18 januari 2021	18 januari 2021
+Software Developer (.NET GUI)	Actief Interim Mechelen	MECHELEN	Vaste Job	19 januari 2021	19 januari 2021
+Software Architect	CRAX IT	Regio Gent	Vaste Job	5 januari 2021	
+Java Developer (Gent)	ELMOS EXPERT	MECHELEN	Vaste Job	6 januari 2021	26 januari 2021
+IT Java Software Developer	BNP Paribas Fortis HQ	Brussel	Vaste Job	15 januari 2021	15 januari 2021
+Atlassian Engineer	Gantner	IEPER	Vaste Job	12 januari 2021	
+Senior Infrastructure Architect	Uptime Group	EDEGEM	Vaste Job	3 december 2020	3 december 2020
+ASP.NET full stack ontwikkelaar	Sciensano	ELSENE	Vaste Job	22 januari 2021	22 januari 2021
+Software project development Engineer	Unifiedpost SA	SINT-DENIJS-WESTREM	Vaste Job	26 januari 2021	
+Security Engineer	CURIOS	HOBOKEN	Vaste Job	5 november 2020	5 november 2020
+SAP BC Consultant	FLEXSO	KONTICH	Vaste Job	26 november 2020	26 november 2020
+Software consultant	GMI group	OEVEL	Vaste Job	26 november 2020	26 november 2020
+.NET Architect	Gantner	IEPER	Vaste Job	12 januari 2021	
+Functioneel analist	KOMMA BOARD	Regio Vilvoorde-Zaventem	Vaste Job	23 september 2020	5 januari 2021
+Full Stack Cloud Software Engineer	HARMONEY	GENT	Vaste Job	16 januari 2021	16 januari 2021
+.NET developer	Digital Unity	HEVERLEE	Vaste Job	12 januari 2021	
+Back-end software developer (Ruby)	Unifiedpost SA	LA HULPE	Vaste Job	15 januari 2021	15 januari 2021
+Splunk Consultant	SMT	ZAVENTEM (CORPORATE VILLAGE)	Vaste Job	12 januari 2021	
+IT Presales Engineer	Deltalink	SINT-KATELIJNE-WAVER	Vaste Job	4 januari 2021	4 januari 2021
+Software Engineer - Java	UZ BRUSSEL	Brussel	Vaste Job	7 januari 2021	7 januari 2021
+IT Manager	Select Pelt	LOMMEL	Vaste Job	26 januari 2021	26 januari 2021
+System Engineer	AGO Jobs&HR	WAREGEM	Vaste Job	17 december 2020	17 december 2020
+Junior .NET Developer	aariXa	Vlaanderen	Vaste Job	11 september 2020	12 januari 2021
+Functioneel analist	Demareg	NINOVE	Vaste Job	12 januari 2021	
+Office 365 Functioneel Consultant	BROAD HORIZON BELGIE	GENTBRUGGE	Vaste Job	4 januari 2021	4 januari 2021
+Software Quality Developer	SKYLINE COMMUNICATIONS	IZEGEM	Vaste Job	19 januari 2021	19 januari 2021
+Embedded Software Engineer	SIOUX EMBEDDED SYSTEMS	HERENTALS	Vaste Job	19 november 2020	19 november 2020
+Java MicroServices Software Engineer	HARMONEY	GENT	Vaste Job	16 januari 2021	16 januari 2021
+Java Architect	FAROS	KONTICH	Vaste Job	27 januari 2021	27 januari 2021
+Software Architectuur & DevOps Professional	Cipal Schaubroeck Geel	GEEL	Tijdelijke job (met optie vast)	27 januari 2021	27 januari 2021
+Informatica Deskundige	AGO Jobs&HR	LEUVEN	Interim met optie "vast werk"	22 januari 2021	22 januari 2021
+Document Designer Isis Papyrus	USG Professionals	BRUSSEL	Zelfstandige activiteit	23 januari 2021	23 januari 2021
+Programmeur	START PEOPLE LA	OOSTKAMP	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+Software Engineer	Vivaldis Interim	DIEPENBEEK	Interim met optie "vast werk"	10 november 2020	10 november 2020
+Software Engineer	VRIJE UNIVERSITEIT BRUSSEL (VUB)	ELSENE	Tijdelijke job (niet via uitzendkantoren)	20 januari 2021	20 januari 2021
+Diensthoofd ICT (m/v/x)	Selor	BRUSSEL	Examen openbaar bestuur (SELOR)	15 januari 2021	15 januari 2021
+Programmeur (m/v/x)	Selor	NEDER-OVER-HEEMBEEK	Examen openbaar bestuur (SELOR)	12 januari 2021	12 januari 2021
+Medior / Senior Software Engineer Java	AGFA-GEVAERT N.V.	GENT	Vaste Job	11 januari 2021	11 januari 2021
+PostgreSQL - Linux administrator	Smals	BRUSSEL	Vaste Job	15 januari 2021	15 januari 2021
+Elia nv/sa - Senior IP Network Architect	StepStone	BRUSSEL	Vaste Job	12 januari 2021	19 januari 2021
+PT Management Assistant h/f FR/ANG	UNIQUE	ETTERBEEK	Vaste Job	19 januari 2021	19 januari 2021
+Management Assistant (m/f)	UNIQUE OFFICE BRUSSEL	WATERMAAL-BOSVOORDE	Interim met optie "vast werk"	11 december 2020	11 december 2020
+Administratief bediende	MANPOWER BELGIUM	NAZARETH	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+.NET Developer	Xperthis	ETTERBEEK	Vaste Job	4 januari 2021	4 januari 2021
+Experis - Medior .NET backend developer	StepStone	GENT	Vaste Job	8 december 2020	8 december 2020
+Java Software Engineer	Smals	BRUSSEL	Vaste Job	15 januari 2021	15 januari 2021
+Software Developer C#	Trescal	BERCHEM	Vaste Job	27 januari 2021	27 januari 2021
+Senior Software Architect	Trescal	BERCHEM	Vaste Job	27 januari 2021	27 januari 2021
+Full Stack Developer Senior	USG Professionals	LEUVEN	Zelfstandige activiteit	18 januari 2021	
+Functional Analyst Mainframe/Frontend	USG Professionals	LEUVEN	Zelfstandige activiteit	21 januari 2021	21 januari 2021
+AWS Architect Senior	USG Professionals	MECHELEN	Zelfstandige activiteit	18 januari 2021	
+Junior Full Stack Developer	USG Professionals	Provincie Vlaams-Brabant	Vaste Job	27 januari 2021	27 januari 2021
+Experis - Senior Java Developer	StepStone	MECHELEN	Vaste Job	8 december 2020	8 december 2020
+Administratief medewerker debiteurenbeheer	Conessence	Provincie Antwerpen	Vaste Job	20 januari 2021	20 januari 2021
+IT Support Officer (VM/X) - Bachelor	Nationale Bank van België	BRUSSEL	Vaste Job	15 januari 2021	15 januari 2021
+Experis - MR Java Developer - Ministry of Education	StepStone	BRUSSEL	Vaste Job	6 januari 2021	6 januari 2021
+Medewerk(st)er databeheer	Detremmerie nv	BEVEREN-LEIE	Vaste Job	4 december 2020	5 januari 2021
+Data Visualisation Analyst - Vilvoorde	CVIA	Regio Vilvoorde-Zaventem	Vaste Job	7 december 2020	7 december 2020
+DATA ANALYST	Hays Brugge	BRUGGE	Vaste Job	6 januari 2021	6 januari 2021
+Talentpool ICT jobs (HR, technologie, data)	Agentschap Overheidspersoneel	BRUSSEL	Vaste Job	16 november 2020	16 november 2020
+DATA ANALYST	Hays Gent	GENT	Vaste Job	6 januari 2021	6 januari 2021
+IT Teamleader bij NBN	AZURO	BRUSSEL	Vaste Job	22 december 2020	22 december 2020
+Systeem Beheerder	IMPACT	HASSELT	Vaste Job	8 december 2020	8 december 2020
+IT Application Support Engineer	Darwin	RONSE	Vaste Job	8 december 2020	6 januari 2021
+IT VERANTWOORDELIJKE - DIEST	DRIVEN by talent | Leuven	DIEST	Vaste Job	26 januari 2021	26 januari 2021
+Commercieel Verantwoordelijke	Aures	Regio Ieper-Poperinge-Wervik	Vaste Job	26 januari 2021	26 januari 2021
+PMO Assistent	Jos HR Services BVBA	HAASRODE	Vaste Job	8 januari 2021	20 januari 2021
+Functioneel Analist	Agilitas Group	Regio Mechelen	Vaste Job	13 januari 2021	13 januari 2021
+Full Stack Software Developer	Darwin	IEPER	Vaste Job	24 november 2020	25 januari 2021
+AZURE CONSULTANT	Hays Gent	GENT	Vaste Job	27 januari 2021	27 januari 2021
+Software Developer	Darwin	HOOGLEDE	Vaste Job	29 juni 2020	25 januari 2021
+JAVA DEVELOPER MET DOORGROEIMOGELIJKHEDEN	Hays Antwerpen	HASSELT	Vaste Job	25 januari 2021	25 januari 2021
+BI analist/specialist	Darwin	IEPER	Vaste Job	26 januari 2021	26 januari 2021
+Application Analyst - Developer .Net	Darwin	IEPER	Vaste Job	9 juni 2020	25 januari 2021
+Analist/Programmeur (M/V)	DERMAUT RECRUITMENT & SELECTION	KORTRIJK	Vaste Job	23 september 2020	30 november 2020
+Network Engineer	BIZZTALENT	Regio Vilvoorde-Zaventem	Vaste Job	31 juli 2020	22 januari 2021
+.Net Developer	SIMPLY SELECT	Regio Gent	Vaste Job	4 november 2020	4 januari 2021
+.NET Developer	MOoN Recruitment	ANTWERPEN	Vaste Job	18 januari 2021	18 januari 2021
+Customs Officer	Spring Professional	ZEEBRUGGE	Interim met optie "vast werk"	4 december 2020	4 december 2020
+Tweetalige Sales Assistant FR-NL - Brussel (AS)	Robert Half	BRUSSEL	Interim met optie "vast werk"	12 januari 2021	12 januari 2021
+ADMINISTRATIEF BEDIENDE	MANPOWER	WAREGEM	Interim met optie "vast werk"	29 december 2020	19 januari 2021
+Medewerker Projectadministratie (Antwerpen)	2WORK	ANTWERPEN	Interim met optie "vast werk"	18 februari 2020	11 januari 2021
+Sales Support Assistant	ASAP OFFICE GENT	OUDENAARDE	Interim met optie "vast werk"	15 januari 2021	15 januari 2021
+AS400 RPG DEVELOPER	Hays Antwerpen	AARTSELAAR	Vaste Job	25 januari 2021	25 januari 2021
+.NET Developer	Compusearch	Regio Ninove-Geraardsbergen-Zottegem	Vaste Job	2 november 2020	7 januari 2021
+Sales Support Medewerker - Wilrijk (3/5e of 4/5e)	Page Personnel Belgium	WILRIJK	Interim met optie "vast werk"	20 januari 2021	27 januari 2021
+Smals - BI Specialist	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Smals - ETL Specialist	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Verantwoordelijke ICT	Lokaal bestuur Hoeilaart	HOEILAART	Vaste Job	26 januari 2021	26 januari 2021
+Senior SAP Consultants	Rialto Recruitment	HASSELT	Vaste Job	23 november 2020	23 november 2020
+FRONT-END WEB DEVELOPER	Hays Antwerpen	MORTSEL	Vaste Job	26 januari 2021	26 januari 2021
+JAVA SOFTWARE ENGINEER MECHELEN	Hays Antwerpen	MECHELEN	Vaste Job	11 januari 2021	13 januari 2021
+Stafmedewerker IT (m/v/x)	Gemeentebestuur Wevelgem	WEVELGEM	Vaste Job	26 januari 2021	26 januari 2021
+Java Developer - Flemish Brabant	Gentis Recruitment	ZAVENTEM	Vaste Job	8 januari 2021	8 januari 2021
+PRINCIPAL TECHNICAL BUSINESS ANALYTICS CONSULTANT	TecQuality Deinze	MERELBEKE	Vaste Job	4 juli 2013	10 maart 2015
+Java Developer - Flemish Brabant	Gentis Recruitment	ZAVENTEM	Vaste Job	21 januari 2021	21 januari 2021
+APPLICATION SUPPORT ENGINEER	Hays Antwerpen	BERCHEM	Vaste Job	25 januari 2021	25 januari 2021
+Automation Tester	Experis Belgium	MECHELEN	Vaste Job	31 december 2020	31 december 2020
+Customer Support Engineer	ictjob.be	GENT	Vaste Job	11 januari 2021	11 januari 2021
+BUSINESS ANALYST	Hays Gent	GENT	Vaste Job	6 januari 2021	6 januari 2021
+Test Analyst	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+Digital engineer	OXIDA	WIELSBEKE	Vaste Job	14 januari 2021	14 januari 2021
+FULL STACK DOTNET DEVELOPER (90% REMOTE)	Hays Antwerpen	ANTWERPEN	Vaste Job	4 januari 2021	7 januari 2021
+JUNIOR SOFTWARE ARCHITECT	Hays Gent	GENT	Vaste Job	6 januari 2021	6 januari 2021
+IT - Risk Officer	Experis Belgium	ANDERLECHT	Vaste Job	26 januari 2021	26 januari 2021
+Senior Application Support Engineer	Experis Belgium	BERCHEM	Vaste Job	15 januari 2021	15 januari 2021
+ETL Specialist	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+MS BI Consultant	AppliSquare BVBA	WAREGEM	Vaste Job	8 januari 2021	8 januari 2021
+Software engineer PLC & IOT / PLC programmeur / IOT developer	OXIDA	ZWIJNAARDE	Vaste Job	26 januari 2021	26 januari 2021
+BI teamlead	TARGET RECRUITMENT	MECHELEN	Vaste Job	3 december 2020	3 december 2020
+HR Officer - Temporary assignment 2-3 months	Page Personnel Belgium	GEEL	Interim met optie "vast werk"	24 december 2020	24 december 2020
+Uptime Group - Oracle Database Administrator	ictjob.be	EDEGEM	Zelfstandige activiteit	3 december 2020	2 januari 2021
+Trilingual Customer Service Agent - Brussels (AS)	Robert Half	BRUSSEL	Interim met optie "vast werk"	21 januari 2021	21 januari 2021
+BI Expert	USG Professionals	BERCHEM	Vaste Job	11 januari 2021	
+IT System Administrator EU	JOBCARE (erkenningsnummer VG.1501/BO)	HAMONT	Vaste Job	16 september 2020	16 januari 2021
+System Engineer	Aures	WAREGEM	Vaste Job	25 januari 2021	25 januari 2021
+IT- BUSINESS ANALYST GENERALIST SOFT-HARDWARE & SYSTEMS	ARGON SELECTIE	WAREGEM	Vaste Job	17 januari 2021	
+Network & Security Engineer	Gentis Recruitment	BRUSSEL	Tijdelijke job (met optie vast)	18 januari 2021	18 januari 2021
+Cronos International - Information Architect Specialised Data Protection	ictjob.be	BRUSSEL	Vaste Job	27 januari 2021	27 januari 2021
+Christelijke Mutualiteiten - Data Warehouse Engineer (SAP Business Objects)	ictjob.be	SCHAARBEEK	Vaste Job	3 maart 2020	14 januari 2021
+Cronos International - Application Support Agent (Data Analyst)	ictjob.be	Brussel	Vaste Job	11 januari 2021	11 januari 2021
+Smals - Data Warehouse PostgreSQL Administrator	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Huxley Associates Belgium - Data Modeler	ictjob.be	Brussel	Zelfstandige activiteit	6 januari 2021	6 januari 2021
+Vivid Resourcing - Fully Remote - Scala Developer Role	ictjob.be	BRUSSEL	Vaste Job	18 januari 2021	18 januari 2021
+MIVB - Expert DBA Oracle	ictjob.be	BRUSSEL	Vaste Job	18 december 2020	17 januari 2021
+Vivid Resourcing - Blockchain Full-Stack Developer Role	ictjob.be	Brussel	Vaste Job	15 januari 2021	15 januari 2021
+Smals - Database Administrator MySQL & MS SQL Server	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Smals - Database Administrator	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Proximus - BI Specialist	ictjob.be	Brussel	Vaste Job	8 januari 2021	8 januari 2021
+Sogeti - Local System Administrator	ictjob.be	Brussel	Vaste Job	22 oktober 2020	20 januari 2021
+Connect-ICT - Functioneel Analist	ictjob.be	GENT	Vaste Job	24 januari 2019	16 januari 2021
+Noël Franklin bvba - Software Engineer	StepStone	HARELBEKE	Vaste Job	8 januari 2021	22 januari 2021
+CIBG - Backup System Engineer	ictjob.be	Brussel	Vaste Job	28 augustus 2020	29 december 2020
+Christelijke Mutualiteiten - ICT COMM Engineer - Network Security	ictjob.be	SCHAARBEEK	Vaste Job	26 januari 2021	26 januari 2021
+UZ Brussel - System Engineer	ictjob.be	JETTE	Vaste Job	5 januari 2021	5 januari 2021
+Smals - BI Tester	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+GAMING1 - Network Engineer	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+LGA IT - Business Intelligence Analyst	StepStone	BRUGGE	Vaste Job	12 januari 2021	28 januari 2021
+People & Technology - SRE / DevOps Engineer	ictjob.be	Brussel	Vaste Job	18 januari 2021	18 januari 2021
+DEVELOPPEUR DOTNET (H/F/X)	FOREM	Regio Nivelles	Vaste Job	28 januari 2021	28 januari 2021
+iStorm - System Engineer	ictjob.be	ANDERLECHT	Vaste Job	4 januari 2021	4 januari 2021
+Smals - Cybersecurity Specialist	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Software Developer - Klinische Softwarepakketten Oracle Forms	ictjob.be	TIENEN	Vaste Job	13 januari 2021	13 januari 2021
+IT-Planet - System Engineer	ictjob.be	GENT	Vaste Job	11 januari 2021	11 januari 2021
+Paralegal te Lokeren	ERGON RECRUITMENT	NINOVE	Vaste Job	11 december 2020	11 december 2020
+Hoofddeskundige ICT	Lokaal bestuur Aalter	AALTER	Vaste Job	28 januari 2021	28 januari 2021
+Elmos - Data Analist	ictjob.be	ANTWERPEN	Vaste Job	15 januari 2021	15 januari 2021
+iStorm - Senior Data / BI Project Manager	ictjob.be	Brussel	Vaste Job	6 januari 2021	25 januari 2021
+Onafhankelijke Ziekenfondsen - Data manager	ictjob.be	ANDERLECHT	Vaste Job	14 januari 2021	14 januari 2021
+Vivid Resourcing - Big Data Java Developer - Ghent	ictjob.be	GENT	Vaste Job	25 januari 2021	25 januari 2021
+Michael Page - Azure Data Engineer	ictjob.be	BRAINE-L'ALLEUD	Tijdelijke job (niet via uitzendkantoren)	28 januari 2021	28 januari 2021
+Data visualization Specialist	RANDSTAD SOURCERIGHT	BUDAPEST	Tijdelijke job (niet via uitzendkantoren)	21 januari 2021	21 januari 2021
+Proximus - Team Leader Business Activity Monitoring	StepStone	BRUSSEL	Vaste Job	23 januari 2021	28 januari 2021
+Laco - Functional Analyst BI	ictjob.be	DIEGEM	Vaste Job	5 november 2020	4 januari 2021
+Senior Workforce Management Advisor	Azuro	BRUSSEL	Vaste Job	13 januari 2021	
+GAMING1 - React JS Developer	ictjob.be	Regio Huy	Vaste Job	2 december 2020	29 december 2020
+GAMING1 - Analyst Developer	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+QA Release Officer	Whoohoo Belgium	GEEL	Vaste Job	11 januari 2021	11 januari 2021
+Satellit - Functional Analyst	ictjob.be	BRUSSEL	Vaste Job	13 januari 2021	18 januari 2021
+Smals - Oracle ETL Developer	ictjob.be	Brussel	Vaste Job	21 januari 2021	21 januari 2021
+BI business consultant	Target Recruitment	MECHELEN	Vaste Job	3 december 2020	24 december 2020
+SII Belgium - Business Analyst	ictjob.be	BRUSSEL	Vaste Job	5 januari 2021	5 januari 2021
+Vivid Resourcing - Java Software Engineer	ictjob.be	NAMUR	Vaste Job	6 januari 2021	6 januari 2021
+Proximus - Technical Lead	ictjob.be	Brussel	Vaste Job	12 januari 2021	12 januari 2021
+MyNextCompany - Mobile Engineer	ictjob.be	Regio Antwerpen	Vaste Job	11 januari 2021	11 januari 2021
+MyNextCompany - Senior Java Developer	ictjob.be	Regio Antwerpen	Vaste Job	7 januari 2021	7 januari 2021
+Mensura - Business Intelligence Analyst	ictjob.be	HASSELT	Vaste Job	21 januari 2021	21 januari 2021
+Altus Staffing - Medior / Senior BI Functional Analist	ictjob.be	Brussel	Vaste Job	20 januari 2021	20 januari 2021
+Ago IT - PCM Applicatie Verantwoordelijke	ictjob.be	KORTRIJK	Vaste Job	19 november 2020	18 januari 2021
+Target Recruitment - BI Business Analist	ictjob.be	GENT	Vaste Job	8 januari 2021	8 januari 2021
+Jr. Business Intelligence Consultant	ictjob.be	Brussel	Vaste Job	15 januari 2021	15 januari 2021
+Target Recruitment - SQL Developer	ictjob.be	WETTEREN	Vaste Job	7 januari 2021	7 januari 2021
+Harvey Nash - ARIS Expert	ictjob.be	Brussel	Zelfstandige activiteit	27 januari 2021	27 januari 2021
+Harvey Nash - Senior Functional Analyst	ictjob.be	Brussel	Zelfstandige activiteit	25 januari 2021	25 januari 2021
+Gaming1 - Back End Software Engineer	ictjob.be	BIERSET	Zelfstandige activiteit	31 augustus 2020	5 januari 2021
+Elmos - QA Engineer	ictjob.be	ANTWERPEN	Zelfstandige activiteit	26 januari 2021	26 januari 2021
+WIENERBERGER NV - Solution Expert O2C	StepStone	KORTRIJK	Vaste Job	28 januari 2021	28 januari 2021
+Data architect	Target Recruitment	Provincie Vlaams-Brabant	Vaste Job	3 december 2020	24 december 2020
+Target Recruitment - BI Expert	ictjob.be	GENT	Vaste Job	7 januari 2021	7 januari 2021
+GAMING1 - Advanced Software Engineer	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+PL/SQL ontwikkelaar	Target Recruitment	Provincie Antwerpen	Vaste Job	3 december 2020	24 december 2020
+GAMING1 - BI Analyst Developer	ictjob.be	Regio Huy	Vaste Job	25 januari 2021	25 januari 2021
+People & Technology - ETL / BI Analyst Developer / SQL Server Consultant	ictjob.be	Brussel	Vaste Job	19 januari 2021	19 januari 2021
+GAMING1 - BI Project Manager	ictjob.be	Regio Huy	Vaste Job	25 januari 2021	25 januari 2021
+Elmos - Integratie Analist	ictjob.be	BRUSSEL	Tijdelijke job (niet via uitzendkantoren)	12 januari 2021	12 januari 2021
+Analist-programmeur Python	De Lijn	Provincie West-Vlaanderen	Vaste Job	22 januari 2021	22 januari 2021
+Systeembeheerder Hybrid Cloud	De Lijn	Provincie West-Vlaanderen	Vaste Job	22 januari 2021	25 januari 2021
+IT Systems & Database Coordinator	Pass HR Services	Brussel	Vaste Job	10 augustus 2020	17 december 2020
+ONTWIKKELAAR SOFTWARE APLLICATIES / WEBSITES (M/V)	EXPERZA	SINT-ELOOIS-VIJVE	Interim Job (uitsluitend voor uitzendkantoren)	23 december 2020	23 december 2020
+Project Manager - IT Omgeving	MOon Recruitment	ANTWERPEN	Vaste Job	6 oktober 2020	15 januari 2021
+Web Application Developer	Talentboxx	TEMSE	Vaste Job	1 december 2020	1 december 2020
+Solution Architect Cloud	Orbid	MERELBEKE	Vaste Job	4 juli 2019	30 november 2020
+Administratief Bediende	Pass HR Services	Regio Ninove-Geraardsbergen-Zottegem	Vaste Job	7 september 2020	17 december 2020
+System Architect	Rialto Recruitment	BRUSSEL	Vaste Job	1 december 2020	1 december 2020
+Remote Support Engineer	Orbid NV	MERELBEKE	Vaste Job	25 september 2019	30 november 2020
+Administratief - onthaalbediende	DERMAUT RECRUITMENT & SELECTION	HARELBEKE	Vaste Job	16 maart 2020	16 december 2020
+Bediende Aanbestedingen - regio Wetteren	ID RECRUITMENT & TRAINING	Regio Dendermonde-Wetteren	Vaste Job	12 januari 2021	19 januari 2021
+Tijdelijke Administratief Medewerker - Excel	Page Personnel Belgium	MECHELEN	Interim met optie "vast werk"	19 januari 2021	19 januari 2021
+Medior Java Developer	Talent-IT	ANTWERPEN	Vaste Job	18 januari 2021	18 januari 2021
+Symfony developer	Sumo Coders	GENT	Vaste Job	12 januari 2021	
+1st line Service Desk Medewerker	Orbid	MERELBEKE	Vaste Job	21 januari 2020	30 november 2020
+Azure Consultant	ORBID	MERELBEKE	Vaste Job	15 juni 2020	30 november 2020
+Developer back-end / DevOps	Monitor HR Consulting	OLEN	Vaste Job	26 augustus 2020	19 januari 2021
+Fork CMS developer	Sumo Coders	GENT	Vaste Job	12 januari 2021	
+Analist/Programmeur Dynamics NAV / Business Central	Darwin	DEINZE	Vaste Job	8 december 2020	25 januari 2021
+IT Manager	JOBCARE (erkenningsnummer VG.1501/BO)	LOMMEL	Vaste Job	10 december 2020	18 januari 2021
+.NET ARCHITECT/ TECH LEAD	Hays Gent	GENT	Vaste Job	18 januari 2021	18 januari 2021
+Medewerker IT Application Support . Roeselare	HR Concept	ROESELARE	Vaste Job	7 januari 2021	7 januari 2021
+Application analyst - developer	JOB TALENT	HEMIKSEM	Interim met optie "vast werk"	22 januari 2021	22 januari 2021
+PROGRAMMEUR (M/V)	EXPERZA	OOSTKAMP	Interim met optie "vast werk"	23 december 2020	23 december 2020
+Blue Planet - Senior Full Stack Developer	Blue Planet Academy & Consulting	België	Vaste Job	12 januari 2021	12 januari 2021
+IT medewerker (M/V)	JOB TALENT	TIENEN	Interim met optie "vast werk"	22 januari 2021	22 januari 2021
+Senior IT Performance Consultant	OXIDA	KORTRIJK	Vaste Job	19 januari 2021	19 januari 2021
+System Engineer voor regio Antwerpen/Geel	ORBID	GEEL	Vaste Job	25 oktober 2018	30 november 2020
+Smals - Monitoring Engineer	ictjob.be	Brussel	Vaste Job	13 januari 2021	13 januari 2021
+Junior/Medior/Senior System Engineer	ORBID	MERELBEKE	Vaste Job	24 september 2020	30 november 2020
+SAS Specialist	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+Netwerkbeheerder	CHASE & GREEN	ERPE-MERE	Vaste Job	7 januari 2021	7 januari 2021
+IT BUSINESS PARTNER (JUNIOR/MEDIOR) BRUSSEL	ARGON SELECTIE	BRUSSEL	Vaste Job	27 november 2020	27 november 2020
+PART TIME RECEPTIONIST	Page Personnel Belgium	BRUSSEL	Vaste Job	16 december 2020	16 december 2020
+Medewerker Medisch Secretariaat (m/v).	Page Personnel Belgium	ELSENE	Interim Job (uitsluitend voor uitzendkantoren)	23 december 2020	23 december 2020
+LGA IT - (Junior) System Engineer	StepStone	GENT	Vaste Job	6 januari 2021	20 januari 2021
+MR Java Developer - Ministry of Education	Experis Belgium	MECHELEN	Vaste Job	25 januari 2021	25 januari 2021
+Windev Developer	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+Analist/programmeur Dynamics NAV / Business Central	OXIDA	DEINZE	Vaste Job	23 december 2020	23 december 2020
+Java Software Engineer	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+Full Stack Developer	ENJOY JOBS	Regio Gent	Vaste Job	18 januari 2021	18 januari 2021
+Industrie 4.0 consultant	OXIDA	KORTRIJK	Vaste Job	19 januari 2021	19 januari 2021
+Junior Java Developer	Experis Belgium	MECHELEN	Vaste Job	25 januari 2021	25 januari 2021
+Senior PHP Developer	OXIDA	KORTRIJK	Vaste Job	23 december 2020	23 december 2020
+CHR de la Citadelle - Ingénieur Database Administrator	ictjob.be	LUIK	Vaste Job	26 januari 2021	26 januari 2021
+afarax - IT Business Partner	ictjob.be	Brussel	Vaste Job	15 september 2020	8 januari 2021
+Smals - PHP Developer	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Vivid Resourcing - Full Stack Developer	ictjob.be	SINT-ANDRIES	Vaste Job	7 januari 2021	7 januari 2021
+CIBG - Analyst Programmer / ESB Integrator	ictjob.be	BRUSSEL	Vaste Job	7 april 2020	21 januari 2021
+Smals - Java Software Engineer	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Brunel - 3rd Line Support Engineer / System Administrator	ictjob.be	Regio Antwerpen	Tijdelijke job (niet via uitzendkantoren)	12 januari 2021	12 januari 2021
+Austin Bright - .NET Ontwikkelaar	ictjob.be	WILRIJK	Vaste Job	19 januari 2021	19 januari 2021
+Selor - Programmeur	ictjob.be	NEDER-OVER-HEEMBEEK	Vaste Job	13 januari 2021	13 januari 2021
+Smals - PostgreSQL - Linux Administrator	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Colruyt Group - Network Engineer	ictjob.be	HALLE	Vaste Job	7 januari 2021	7 januari 2021
+GAMING1 - PostgreSQL / Linux Administrator	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+Contraste Europe - Digital Workplace Architect	ictjob.be	Brussel	Zelfstandige activiteit	29 december 2020	29 december 2020
+Administratief bediende/ tuinarchitect (M/V) regio Putte	DAOUST INTERIM	PUTTE	Interim met optie "vast werk"	27 januari 2021	27 januari 2021
+CTG ITS - Linux System Administrators	ictjob.be	Brussel	Zelfstandige activiteit	25 januari 2021	25 januari 2021
+Cronos International - System Administrator	ictjob.be	Brussel	Zelfstandige activiteit	26 januari 2021	26 januari 2021
+Fullstack Developer .NET / ANGULAR - Brussels - Fintech	Gentis Recruitment	BRUSSEL	Vaste Job	19 januari 2021	19 januari 2021
+Python Developer	MONITOR	Luxemburg	Vaste Job	3 juli 2020	11 december 2020
+Eiger North NV - Business Analyst	StepStone	KONTICH	Vaste Job	19 januari 2021	26 januari 2021
+Christelijke Mutualiteiten - Software Engineer OutSystems	ictjob.be	SCHAARBEEK	Vaste Job	5 juni 2020	18 januari 2021
+Elmos - Fullstack JavaScript Developer	ictjob.be	BRUSSEL	Vaste Job	26 januari 2021	26 januari 2021
+AGFA HealthCare - Medior / Senior Software Engineer Java	ictjob.be	GENT	Vaste Job	30 juli 2020	1 januari 2021
+Smals - WinDev Developer	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+Smals - Senior PHP Developer	ictjob.be	Brussel	Vaste Job	5 januari 2021	5 januari 2021
+SPIE - IT Developer	ictjob.be	Brussel	Vaste Job	28 januari 2021	28 januari 2021
+Vivid Resourcing - Software Engineer	ictjob.be	LEUVEN	Vaste Job	8 januari 2021	8 januari 2021
+GAMING1 - Back End Software Engineer (Betting Team)	ictjob.be	Regio Huy	Vaste Job	25 maart 2020	5 januari 2021
+CIBG - Analyst Programmer Java / Web	ictjob.be	BRUSSEL	Vaste Job	29 december 2020	29 december 2020
+Wavenet - Développeur Java senior	ictjob.be	NAMUR	Vaste Job	7 december 2020	14 januari 2021
+Ago IT - Full Stack Web Developer	ictjob.be	IEPER	Vaste Job	8 december 2020	7 januari 2021
+Vivid Resourcing - Software Team Lead	ictjob.be	LEUVEN	Vaste Job	18 januari 2021	18 januari 2021
+Experis - SR Java Developer	ictjob.be	Brussel	Vaste Job	26 januari 2021	26 januari 2021
+UZ Brussel - Software Engineer Java	ictjob.be	JETTE	Vaste Job	15 juli 2020	4 januari 2021
+GAMING1 - Expert Developer	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+GAMING1 - Solution Architect	ictjob.be	Regio Huy	Vaste Job	1 december 2020	29 december 2020
+IT-Planet - Full Stack Developer Senior	ictjob.be	LEUVEN	Zelfstandige activiteit	27 januari 2021	27 januari 2021
+Harvey Nash - Senior Full Stack Developer	ictjob.be	LEUVEN	Zelfstandige activiteit	27 januari 2021	27 januari 2021
+Cronos International - Java Full Stack Developer	ictjob.be	BRUSSEL	Tijdelijke job (niet via uitzendkantoren)	28 januari 2021	28 januari 2021
+CIBG - Business Consultant	ictjob.be	Brussel	Vaste Job	10 december 2020	11 januari 2021
+SII Belgium - O365 / SharePoint Consultant	ictjob.be	BRUSSEL	Vaste Job	5 januari 2021	5 januari 2021
+b.ignited - Automation Developer	ictjob.be	België	Zelfstandige activiteit	2 september 2020	1 januari 2021
+Chep - Key Account Analyst	StepStone	MECHELEN	Vaste Job	14 januari 2021	24 januari 2021
+Farmdesk - Lead Software Developer	StepStone	BERCHEM	Vaste Job	12 januari 2021	22 januari 2021
+CIRB - CIBG - Project Manager IT	StepStone	BRUSSEL	Vaste Job	23 januari 2021	23 januari 2021
+StepStone - Java Developer	StepStone	BRUSSEL	Vaste Job	6 januari 2021	13 januari 2021
+Business Architect Data Lake	COLRUYT GROUP	HALLE	Vaste Job	10 augustus 2020	13 augustus 2020
+IT medewerker ERP	Vivaldis Interim	MENEN	Interim met optie "vast werk"	20 november 2020	20 november 2020
+IT Administrator	ACTIEF INTERIM	GRIMBERGEN	Interim met optie "vast werk"	26 januari 2021	26 januari 2021
+DELHAIZE - Supply Chain Officer	StepStone	ASSE	Vaste Job	9 januari 2021	19 januari 2021
+Actemium - Angular Developer - Aalter	StepStone	AALTER	Vaste Job	6 januari 2021	27 januari 2021
+Smals - Junior Functional Analyst	StepStone	SINT-GILLIS	Vaste Job	22 januari 2021	22 januari 2021
+Smals - Test Analyst	StepStone	BRUSSEL	Vaste Job	5 januari 2021	19 januari 2021
+Network Engineer	COLRUYT GROUP	HALLE	Vaste Job	25 november 2020	15 januari 2021
+Aertssen Group - Senior Microsoft SQL Developer met noties .NET | Stabroek	StepStone	STABROEK	Vaste Job	21 januari 2021	28 januari 2021
+Smals - Infrastructure Project Manager	StepStone	BRUSSEL	Vaste Job	5 januari 2021	19 januari 2021
+Smals - Functional Analyst Knowledge Management	StepStone	BRUSSEL	Vaste Job	5 januari 2021	19 januari 2021
+Smals - IT Project Coordinator	StepStone	BRUSSEL	Vaste Job	5 januari 2021	19 januari 2021
+HR Consultant Aalst (m/v/x)	ADECCO AALST	AALST	Interim met optie "vast werk"	15 december 2020	
+Hays HR - Recruitment Consultant IT - Cyber Security & Business Intelligence	StepStone	ANTWERPEN	Zelfstandige activiteit	20 januari 2021	27 januari 2021
+Business Proces Analist (Ref.2492)	Jobcare BV	GENK	Vaste Job	5 januari 2021	26 januari 2021
+European Medicines Verification Organisation (EMVO) - Business Analyst	ictjob.be	Brussel	Vaste Job	21 januari 2021	21 januari 2021
+SQL developer	SQL server	Provincie Oost-Vlaanderen	Vaste Job	7 december 2020	28 december 2020
