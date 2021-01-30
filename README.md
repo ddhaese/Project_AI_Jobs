@@ -4,4 +4,4 @@ Result of a search for AI-related job offers in Flanders. Data from the [VDAB](h
 
 ## The report
 
-[Link to the report](https://ddhaese.github.io/Project_AI_Jobs/.).
+[Link to the report](https://ddhaese.github.io/Project_AI_Jobs/).

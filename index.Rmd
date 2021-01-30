@@ -155,7 +155,7 @@ Door de wildgroei aan titels in vacatures is het moeilijk om door het bos de bom
 - Breng verwante termen onder dezelfde noemer
 - Groepeer de termen volgens de domeinen
 
-Het resultaat kan niet rechtstreeks in dit PDF document getoond worden omdat het om een interactief krachtnetwerk gaat dat enkel in HTML goed weergegeven kan worden (zie interactieve versie [hier](https://ddhaese.github.io/Project_AI_Jobs/vdab.html)).
+Het resultaat kan niet rechtstreeks in dit PDF document getoond worden omdat het om een interactief krachtnetwerk gaat dat enkel in HTML goed weergegeven kan worden (zie interactieve versie [hier](https://ddhaese.github.io/Project_AI_Jobs/)).
 
 ```{r eval = TRUE}
 posit <- vdab[, .N, Position][order(Position)]
