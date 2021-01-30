@@ -23,9 +23,7 @@ palette(c("steelblue", "orange", "grey"))
 
 ## Doel
 
-Zoekopdracht op [VDAB](https://www.vdab.be/) om te onderzoek wat de huidige vraag is naar een TAI profiel. Je kan zulke cijfers zeer gemakkelijk manipuleren, net daarom wensen we in volle transparantie laten zien hoe we aan de cijfers rond VDAB vacatures zijn geraakt zodat iedereen zelf kan oordelenn. 
-
-> Sommige onderdelen van de tekst en de figuren kunnen wegvallen. Gelieve de online versie te raadplegen voor betere kwaliteit.
+Zoekopdracht op [VDAB](https://www.vdab.be/) om te onderzoek wat de huidige vraag is naar een TAI profiel. Je kan zulke cijfers zeer gemakkelijk manipuleren, net daarom wensen we in volle transparantie laten zien hoe we aan de cijfers rond VDAB vacatures zijn geraakt zodat iedereen zelf kan oordelenn.
 
 ## Methode
 
@@ -49,7 +47,7 @@ In eerste instantie wordt er een filtering doorgevoerd op volgende beroepscatego
 - Databankbeheerder (123)
 - Verantwoordelijke ICT (77)
 
-_De cijfers tussen haakjes geven telkens het aantal resultaten per beroepscategorie weer_
+De cijfers tussen haakjes geven telkens het aantal resultaten per beroepscategorie weer
 
 In tweede instantie zal er gefilterd worden op Bachelor diploma^[de VDAB vacatures maakt voorlopig geen onderscheid tussen academische en professionele bachelors].
 
@@ -117,8 +115,8 @@ munip_map$TX_MUNTY_DESCR_NL <- munip_map$TX_MUNTY_DESCR_NL %>% toupper
 munip_data <- vdab[, .N, Location][order(-N)]
 
 vdab_loc <- merge(munip_map, munip_data,
-	by.x = "TX_MUNTY_DESCR_NL",
-	by.y = "Location", all.x = TRUE, )
+  by.x = "TX_MUNTY_DESCR_NL",
+  by.y = "Location", all.x = TRUE, )
 
 vdab_loc$N <- ifelse(
   vdab_loc$TX_RGN_DESCR_NL == "Waals Gewest", NA,
@@ -127,7 +125,7 @@ vdab_loc$N <- ifelse(
 qtm(vdab_loc, fill = "N", fill.title = "")
 ```
 
-![](map_vdab_locator.png)
+![Map showing AI-related jobs](map_vdab_locator.png)
 
 ```{r}
 verh_prov_antw <-
@@ -142,8 +140,8 @@ Uit de data blijkt dat `r verh_prov_antw %>% multiply_by(100) %>% sprintf("%.2f%
 
 ```{r}
 merge(munip_map, vdab,
-	by.x = "TX_MUNTY_DESCR_NL",
-	by.y = "Location") %>%
+  by.x = "TX_MUNTY_DESCR_NL",
+  by.y = "Location") %>%
   as.data.table %>%
   extract(TX_PROV_DESCR_NL == "Provincie Antwerpen", Company) %>% 
   unique %>% sort %>% paste0(collapse = "\n") %>% cat
@@ -157,7 +155,7 @@ Door de wildgroei aan titels in vacatures is het moeilijk om door het bos de bom
 - Breng verwante termen onder dezelfde noemer
 - Groepeer de termen volgens de domeinen
 
-Het resultaat kan niet rechtstreeks in dit PDF document getoond worden omdat het om een interactief krachtnetwerk gaat dat enkel in HTML goed weergegeven kan worden (zie interactieve versie [hier](https://github.com/ddhaese/Project_AI_Jobs)).
+Het resultaat kan niet rechtstreeks in dit PDF document getoond worden omdat het om een interactief krachtnetwerk gaat dat enkel in HTML goed weergegeven kan worden (zie interactieve versie [hier](https://ddhaese.github.io/Project_AI_Jobs/vdab.html)).
 
 ```{r eval = TRUE}
 posit <- vdab[, .N, Position][order(Position)]
@@ -272,4 +270,3 @@ group_colors <- c(
 posit_dist %>%
   dist_to_net(groups = groups, group_colors = group_colors)
 ```
-
