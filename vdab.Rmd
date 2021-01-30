@@ -230,6 +230,8 @@ dist_to_net <- function(x, groups = rep("A", nrow(x)),
       paste0(collapse = "\", \""), "\"]);")
   
   force_network <- forceNetwork(
+    height = 600,
+    width = 900,
     Links = x_links,
     Nodes = x_nodes, 
     Source = "Source",,
